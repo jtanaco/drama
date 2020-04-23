@@ -1,0 +1,5380 @@
+﻿1
+00:00:18,468 --> 00:00:20,800
+<b>How's the liver? Are you heading here now?</b>
+
+2
+00:00:20,804 --> 00:00:22,725
+<i><b>We have a problem, Professor Ahn.</i></b>
+
+3
+00:00:23,073 --> 00:00:26,425
+<b>- What's wrong? - <i>The donor's liver is too thick.</i></b>
+
+4
+00:00:27,344 --> 00:00:30,905
+<i><b>It looks like it weighs over 500g. And her AP must be as thick as 8cm.</i></b>
+
+5
+00:00:31,515 --> 00:00:32,935
+<i><b>What should we do?</i></b>
+
+6
+00:00:48,832 --> 00:00:51,225
+<i><b>This liver seems too big for Ji- a. It won't work.</i></b>
+
+7
+00:00:52,469 --> 00:00:54,525
+<i><b>I think you should give up.</i></b>
+
+8
+00:00:54,538 --> 00:00:56,965
+<b>No, we'll proceed as planned.</b>
+
+9
+00:00:58,341 --> 00:00:59,825
+<b>I'm going to do this.</b>
+
+10
+00:01:09,719 --> 00:01:10,880
+<b>Hello.</b>
+
+11
+00:01:10,887 --> 00:01:13,490
+<b>- You're still here? - Yes.</b>
+
+12
+00:01:13,490 --> 00:01:16,145
+<b>Did the painter Mr. Jang Hong- do leave for the day?</b>
+
+13
+00:01:16,326 --> 00:01:18,690
+<b>Yes, Mr. Jang was...</b>
+
+14
+00:01:18,695 --> 00:01:21,130
+<b>I mean, he was here, but he left just now.</b>
+
+15
+00:01:21,131 --> 00:01:23,700
+<b>All right. You should get going too.</b>
+
+16
+00:01:23,700 --> 00:01:24,955
+<b>Okay.</b>
+
+17
+00:01:28,305 --> 00:01:29,925
+<b>Want to see a liver transplant?</b>
+
+18
+00:01:31,875 --> 00:01:33,125
+<b>Yes.</b>
+
+19
+00:01:35,345 --> 00:01:36,765
+<b>Thank you.</b>
+
+20
+00:01:47,991 --> 00:01:50,990
+<i><b>For a baby to get a liver transplant, the size is the most important factor.</i></b>
+
+21
+00:01:50,994 --> 00:01:54,160
+<i><b>If it's too big, the results will be fatally affected.</i></b>
+
+22
+00:01:54,164 --> 00:01:57,400
+<b>For a baby, we'd usually cut a brain- dead donor's liver in half,</b>
+
+23
+00:01:57,400 --> 00:01:59,930
+<b>but this donor's liver is much bigger than we expected.</b>
+
+24
+00:01:59,936 --> 00:02:03,600
+<b>Even if we cut it in half, it'll still be too big for the baby.</b>
+
+25
+00:02:03,607 --> 00:02:05,400
+<b>Ji- a is only six months old.</b>
+
+26
+00:02:05,408 --> 00:02:08,710
+<b>So, Ji- a can't get the surgery? Will she have to wait for another liver?</b>
+
+27
+00:02:08,712 --> 00:02:10,010
+<b>She doesn't have a "next time."</b>
+
+28
+00:02:10,013 --> 00:02:13,080
+<b>Her liver can't release the bile, so hepatocirrhosis is worsening rapidly.</b>
+
+29
+00:02:13,083 --> 00:02:15,180
+<b>She vomited blood and had blood in her excrement.</b>
+
+30
+00:02:15,185 --> 00:02:16,720
+<b>She won't last more than a week.</b>
+
+31
+00:02:16,720 --> 00:02:18,505
+<b>- Then what do we do? - What?</b>
+
+32
+00:02:19,923 --> 00:02:21,475
+<b>I'm sorry.</b>
+
+33
+00:02:21,791 --> 00:02:23,520
+<b>Then what do we do, Professor?</b>
+
+34
+00:02:23,527 --> 00:02:27,230
+<b>She can't get the surgery and won't live if we don't do anything.</b>
+
+35
+00:02:27,230 --> 00:02:29,455
+<b>- What do we do? - We'll perform the surgery.</b>
+
+36
+00:02:29,533 --> 00:02:31,460
+<b>But you said even the half- cut liver is too big.</b>
+
+37
+00:02:31,468 --> 00:02:33,385
+<b>- We can cut it again. - What?</b>
+
+38
+00:02:33,770 --> 00:02:35,295
+<b>What? What's wrong?</b>
+
+39
+00:02:36,106 --> 00:02:37,365
+<b>I'm really sorry.</b>
+
+40
+00:02:38,775 --> 00:02:41,640
+<b>Did you say we can cut the liver again?</b>
+
+41
+00:02:41,645 --> 00:02:42,995
+<b>Yes.</b>
+
+42
+00:02:44,247 --> 00:02:48,035
+<b>We'll cut the half- cut liver in half again.</b>
+
+43
+00:02:49,052 --> 00:02:52,475
+<b>It happens occasionally. Of course, the surgery will be very difficult.</b>
+
+44
+00:02:53,757 --> 00:02:55,120
+<b>Still, we have to do it.</b>
+
+45
+00:02:55,125 --> 00:02:57,245
+<b>It won't be easy,</b>
+
+46
+00:02:57,260 --> 00:03:01,385
+<b>but this is the last and only way to save the baby.</b>
+
+47
+00:03:37,767 --> 00:03:40,285
+<b>- Ji- a. - Please, God...</b>
+
+48
+00:03:59,322 --> 00:04:00,615
+<b>Here.</b>
+
+49
+00:04:06,630 --> 00:04:08,490
+<b>- Three, three, three. - Three, three, three.</b>
+
+50
+00:04:08,498 --> 00:04:10,200
+<b>- Liver coming out. - One.</b>
+
+51
+00:04:10,200 --> 00:04:12,585
+<b>- Gosh, it must have been hard for her. - Two.</b>
+
+52
+00:04:12,802 --> 00:04:15,200
+<b>- Three, four. - I'm amazed she held out with that liver.</b>
+
+53
+00:04:15,205 --> 00:04:17,670
+<b>- Five, six. - Ji- a is really amazing.</b>
+
+54
+00:04:17,674 --> 00:04:19,925
+<b>- Seven, eight. - Seven, eight.</b>
+
+55
+00:04:20,410 --> 00:04:22,435
+<b>- Nine. - Nine, ten.</b>
+
+56
+00:04:30,220 --> 00:04:31,975
+<b>The liver is here.</b>
+
+57
+00:04:36,459 --> 00:04:39,345
+<b>Thank you. Thanks for your help, Dr. Jang.</b>
+
+58
+00:04:40,397 --> 00:04:43,085
+<b>You said you were by the traffic light across the street.</b>
+
+59
+00:04:43,166 --> 00:04:44,760
+<b>You got here so fast.</b>
+
+60
+00:04:44,768 --> 00:04:47,455
+<b>- Did you run? - Thankfully, the traffic wasn't so bad.</b>
+
+61
+00:04:47,904 --> 00:04:51,025
+<b>But the elevator in this building is broken,</b>
+
+62
+00:04:51,541 --> 00:04:52,865
+<b>so I ran up here.</b>
+
+63
+00:04:53,076 --> 00:04:55,435
+<b>I mean, I didn't run.</b>
+
+64
+00:04:56,413 --> 00:04:57,665
+<b>I quickly...</b>
+
+65
+00:04:57,914 --> 00:05:01,205
+<b>I walked quickly. Just walked.</b>
+
+66
+00:05:01,384 --> 00:05:04,305
+<b>I was being careful to deliver this safe and sound.</b>
+
+67
+00:05:10,093 --> 00:05:11,645
+<b>My gosh, Gyeo- ul.</b>
+
+68
+00:05:11,861 --> 00:05:13,345
+<b>Great job.</b>
+
+69
+00:05:27,744 --> 00:05:29,835
+<b>It looks like we're done, Professor.</b>
+
+70
+00:05:30,580 --> 00:05:32,565
+<b>Yes, thanks for all your help.</b>
+
+71
+00:05:59,409 --> 00:06:01,565
+<b>- We're ready, Professor. - Okay.</b>
+
+72
+00:06:06,950 --> 00:06:10,235
+<b>Would you like to try the next External Ventricular Drainage?</b>
+
+73
+00:06:10,387 --> 00:06:11,845
+<b>What?</b>
+
+74
+00:06:12,956 --> 00:06:15,115
+<b>You're in your third year, so it's about time.</b>
+
+75
+00:06:15,358 --> 00:06:17,015
+<b>Get ready.</b>
+
+76
+00:06:19,028 --> 00:06:20,445
+<b>Thank you.</b>
+
+77
+00:06:26,703 --> 00:06:28,600
+<b>The liver has been cut, so it's bleeding a lot.</b>
+
+78
+00:06:28,605 --> 00:06:29,895
+<b>Forceps. Quick.</b>
+
+79
+00:06:35,712 --> 00:06:38,440
+<b>This will take a while. Ik- jun.</b>
+
+80
+00:06:38,448 --> 00:06:40,775
+<b>Yes, I'll let her parents know.</b>
+
+81
+00:06:44,287 --> 00:06:46,045
+<b>There's a lot of bleeding, Doctor.</b>
+
+82
+00:06:46,823 --> 00:06:49,575
+<b>Yes, she's still okay though.</b>
+
+83
+00:06:51,127 --> 00:06:53,955
+<b>Focus. You have to do a thorough job with the suction.</b>
+
+84
+00:06:55,331 --> 00:06:57,485
+<b>- I can't see. - Okay.</b>
+
+85
+00:06:58,535 --> 00:06:59,825
+<b>Pass me the gauze.</b>
+
+86
+00:07:16,686 --> 00:07:18,105
+<b>Doctor.</b>
+
+87
+00:07:18,588 --> 00:07:20,220
+<b>Is Ji- a well now?</b>
+
+88
+00:07:20,223 --> 00:07:22,475
+<b>Did the surgery go well, Doctor?</b>
+
+89
+00:07:24,327 --> 00:07:25,815
+<b>Yes.</b>
+
+90
+00:07:25,995 --> 00:07:27,485
+<b>It went well.</b>
+
+91
+00:07:33,269 --> 00:07:37,425
+<b>Why are you crying? It went very well. Ji- a is such a strong girl.</b>
+
+92
+00:07:39,008 --> 00:07:42,465
+<b>Please don't cry. People will think that the surgery didn't go well.</b>
+
+93
+00:07:43,079 --> 00:07:44,535
+<b>Thank you.</b>
+
+94
+00:07:45,448 --> 00:07:47,205
+<b>Thank you, Doctor.</b>
+
+95
+00:07:47,383 --> 00:07:49,880
+<b>Thank you so much for everything. We'll never forget this.</b>
+
+96
+00:07:49,886 --> 00:07:53,120
+<b>There was more bleeding than we had expected, so it wasn't easy.</b>
+
+97
+00:07:53,122 --> 00:07:54,950
+<b>But we managed to get it under control.</b>
+
+98
+00:07:54,958 --> 00:07:58,615
+<b>She's stable now, and we'll move her to the ICU shortly.</b>
+
+99
+00:07:59,195 --> 00:08:00,990
+<b>The transplant went well,</b>
+
+100
+00:08:00,997 --> 00:08:03,555
+<b>so she'll be fine as long as the liver works well.</b>
+
+101
+00:08:03,633 --> 00:08:06,930
+<b>The surgery went successfully, so Ji- a will recover soon.</b>
+
+102
+00:08:06,936 --> 00:08:09,155
+<b>- Thank you. - This must've been so hard for you.</b>
+
+103
+00:08:09,839 --> 00:08:11,140
+<b>You held out very well.</b>
+
+104
+00:08:11,140 --> 00:08:14,295
+<b>I don't know how I can express my gratitude.</b>
+
+105
+00:08:15,612 --> 00:08:17,405
+<b>Thank you so much.</b>
+
+106
+00:08:18,214 --> 00:08:23,335
+<b>Ji- a could live because she was lucky enough to find a brain- dead donor.</b>
+
+107
+00:08:23,386 --> 00:08:24,980
+<b>This is truly a miracle.</b>
+
+108
+00:08:24,988 --> 00:08:28,845
+<b>And we were very lucky to find a young donor.</b>
+
+109
+00:08:28,992 --> 00:08:30,945
+<b>We owe it all to you, Doctor.</b>
+
+110
+00:08:30,960 --> 00:08:32,915
+<b>Thank you so much, Doctor.</b>
+
+111
+00:08:34,397 --> 00:08:35,855
+<b>Thank you.</b>
+
+112
+00:08:37,066 --> 00:08:39,325
+<b>All I did was perform the surgery.</b>
+
+113
+00:08:41,037 --> 00:08:42,355
+<b>Pardon?</b>
+
+114
+00:08:44,274 --> 00:08:47,535
+<b>You should thank that person instead.</b>
+
+115
+00:08:49,479 --> 00:08:51,035
+<b>- Who? - Who?</b>
+
+116
+00:08:52,682 --> 00:08:55,335
+<b>Age 22, female.</b>
+
+117
+00:08:55,919 --> 00:08:57,405
+<b>Tall and slim.</b>
+
+118
+00:08:58,321 --> 00:08:59,745
+<b>A traffic accident victim.</b>
+
+119
+00:09:04,694 --> 00:09:06,215
+<b>I'm talking about the donor.</b>
+
+120
+00:09:06,596 --> 00:09:08,415
+<b>The person who gave Ji- a the liver.</b>
+
+121
+00:09:10,133 --> 00:09:11,755
+<b>I can't give you</b>
+
+122
+00:09:12,135 --> 00:09:15,095
+<b>more information about the donor as it's against our rules,</b>
+
+123
+00:09:15,705 --> 00:09:18,695
+<b>but Ji- a could live thanks to her.</b>
+
+124
+00:09:20,843 --> 00:09:23,135
+<b>I'm so ashamed, Doctor.</b>
+
+125
+00:09:24,147 --> 00:09:28,650
+<b>I'll thank her for the rest of my life.</b>
+
+126
+00:09:28,651 --> 00:09:31,775
+<b>I was only thinking about my baby.</b>
+
+127
+00:09:32,221 --> 00:09:34,945
+<b>- I'm so sorry. - We're sorry.</b>
+
+128
+00:09:35,625 --> 00:09:38,215
+<b>No, don't be sorry. I fully understand.</b>
+
+129
+00:09:38,895 --> 00:09:42,555
+<b>But every year, on Ji- a's birthday,</b>
+
+130
+00:09:42,966 --> 00:09:44,625
+<b>please thank her</b>
+
+131
+00:09:45,335 --> 00:09:47,285
+<b>with all your heart.</b>
+
+132
+00:09:48,371 --> 00:09:50,925
+<b>- We will. - Yes, thank you.</b>
+
+133
+00:09:51,541 --> 00:09:53,065
+<b>Thank you.</b>
+
+134
+00:09:53,843 --> 00:09:56,665
+<b>Then I'll see you in the PICU later.</b>
+
+135
+00:09:57,080 --> 00:09:58,335
+<b>Okay.</b>
+
+136
+00:09:59,749 --> 00:10:01,275
+<b>Thank you.</b>
+
+137
+00:10:23,239 --> 00:10:26,170
+<b>Yes. Can you send this to me with the image?</b>
+
+138
+00:10:26,175 --> 00:10:28,535
+<b>Yes, thank you. Will do.</b>
+
+139
+00:10:28,878 --> 00:10:32,280
+<b>- Still, I'm worried. - Don't be.</b>
+
+140
+00:10:32,281 --> 00:10:35,305
+<b>The contractions are under control, and the baby is doing well too.</b>
+
+141
+00:10:35,451 --> 00:10:38,580
+<b>- She'll be fine. - Do you have to keep using the drugs?</b>
+
+142
+00:10:38,588 --> 00:10:42,345
+<b>As I explained before, those drugs are completely fine.</b>
+
+143
+00:10:43,393 --> 00:10:45,290
+<b>I'll go through them again with you.</b>
+
+144
+00:10:45,294 --> 00:10:46,460
+<b>Just a moment, please.</b>
+
+145
+00:10:46,462 --> 00:10:49,130
+<b>That patient, Park Mi- jeong. What was her cervical length again?</b>
+
+146
+00:10:49,132 --> 00:10:50,855
+<b>- Hold on. - It was 1.5cm.</b>
+
+147
+00:10:51,300 --> 00:10:52,555
+<b>I see, 1.5cm.</b>
+
+148
+00:10:52,969 --> 00:10:55,270
+<b>- Dr. Chu. - Yes, Professor.</b>
+
+149
+00:10:55,271 --> 00:10:58,240
+<b>The C- section patient bled a lot because her contractions weren't good.</b>
+
+150
+00:10:58,241 --> 00:11:00,540
+<b>Check the pad and keep an eye on her contractions.</b>
+
+151
+00:11:00,543 --> 00:11:01,995
+<b>Yes, sir.</b>
+
+152
+00:11:03,112 --> 00:11:07,805
+<b>Doctor, my wife says that she's in a lot of pain. What should I do?</b>
+
+153
+00:11:07,917 --> 00:11:11,420
+<b>I checked her five minutes ago but didn't notice any changes with her cervix.</b>
+
+154
+00:11:11,421 --> 00:11:14,150
+<b>I'll check in a bit and give her an analgesic if needed.</b>
+
+155
+00:11:14,157 --> 00:11:16,620
+<b>Can you please check now?</b>
+
+156
+00:11:16,626 --> 00:11:17,915
+<b>Sure.</b>
+
+157
+00:11:17,927 --> 00:11:19,390
+<b>- Dr. Chu. - Yes?</b>
+
+158
+00:11:19,395 --> 00:11:21,760
+<b>We're giving Sin Hyo- jeong ritodrine at 12gtt per minute,</b>
+
+159
+00:11:21,764 --> 00:11:23,290
+<b>but she has tachycardia.</b>
+
+160
+00:11:23,299 --> 00:11:26,330
+<b>Oh, let's bring it down to 8gtt. And check her vitals in an hour.</b>
+
+161
+00:11:26,335 --> 00:11:27,595
+<b>Okay.</b>
+
+162
+00:11:28,237 --> 00:11:29,570
+<b>We'll see how the baby is doing</b>
+
+163
+00:11:29,572 --> 00:11:32,825
+<b>and keep the baby in the womb for longer if needed.</b>
+
+164
+00:11:33,309 --> 00:11:37,680
+<b>Is there a chance that the baby will be weak compared to other babies</b>
+
+165
+00:11:37,680 --> 00:11:40,480
+<b>or can't live for long?</b>
+
+166
+00:11:40,483 --> 00:11:42,450
+<b>No, that won't happen.</b>
+
+167
+00:11:42,452 --> 00:11:46,180
+<b>My mom also had a very hard time when she had me.</b>
+
+168
+00:11:46,189 --> 00:11:49,245
+<b>- Really? - In my case...</b>
+
+169
+00:11:49,425 --> 00:11:52,960
+<b>My mom is diabetic, and she got pregnant unexpectedly.</b>
+
+170
+00:11:52,962 --> 00:11:54,455
+<b>She's diabetic?</b>
+
+171
+00:11:54,630 --> 00:11:57,500
+<b>Patient Seo Jeong- won's episiotomy site looks pretty good, doesn't it?</b>
+
+172
+00:11:57,500 --> 00:12:01,300
+<b>Yes, I checked in the morning. She doesn't have a hematoma. All good.</b>
+
+173
+00:12:01,304 --> 00:12:03,470
+<b>Dr. Chu, can you have a look at this NST?</b>
+
+174
+00:12:03,473 --> 00:12:05,625
+<b>Jeong Min- gyeong is exhibiting decelerations.</b>
+
+175
+00:12:06,008 --> 00:12:08,040
+<b>Let's hydrate her.</b>
+
+176
+00:12:08,044 --> 00:12:10,640
+<b>Give her 3L of oxygen via nasal prong in the lateral position.</b>
+
+177
+00:12:10,646 --> 00:12:11,905
+<b>Okay.</b>
+
+178
+00:12:12,381 --> 00:12:14,810
+<b>- Doctor. - My sister's baby was born prematurely,</b>
+
+179
+00:12:14,817 --> 00:12:17,705
+<b>but she's so optimistic and easygoing though.</b>
+
+180
+00:12:17,820 --> 00:12:21,250
+<b>I was worried about her even though I'm an ob- gyn,</b>
+
+181
+00:12:21,257 --> 00:12:23,390
+<b>but she said she was happy to meet her baby early.</b>
+
+182
+00:12:23,392 --> 00:12:26,215
+<b>- My gosh, really? - Yes.</b>
+
+183
+00:12:26,662 --> 00:12:28,190
+<b>- Doctor. - Yes?</b>
+
+184
+00:12:28,197 --> 00:12:31,285
+<b>I'm really hungry.</b>
+
+185
+00:12:31,367 --> 00:12:33,155
+<b>Can I eat something?</b>
+
+186
+00:12:33,202 --> 00:12:36,170
+<b>Let's check fetal movements. Hold on. I'll be with you in a minute.</b>
+
+187
+00:12:36,172 --> 00:12:40,095
+<b>She'll have a healthy baby, and the baby will stay healthy.</b>
+
+188
+00:12:40,343 --> 00:12:43,240
+<b>My sister's baby is already two years old. Do you want to see photos?</b>
+
+189
+00:12:43,246 --> 00:12:44,735
+<b>Yes, I'd love to.</b>
+
+190
+00:12:44,747 --> 00:12:47,710
+<b>- Dr. Myeong. - Yes?</b>
+
+191
+00:12:47,717 --> 00:12:50,080
+<b>We need to check Sin Ha- yun's fetal movements,</b>
+
+192
+00:12:50,086 --> 00:12:53,180
+<b>and we have to check Jeong Min- gyeong for decelerations.</b>
+
+193
+00:12:53,189 --> 00:12:54,820
+<b>Also, we have two C- sections scheduled,</b>
+
+194
+00:12:54,824 --> 00:12:57,475
+<b>so we have to get ready. We have a lot to do.</b>
+
+195
+00:12:57,693 --> 00:12:59,945
+<b>Okay, got it.</b>
+
+196
+00:13:06,569 --> 00:13:11,165
+<b>Doctor, you're very straightforward.</b>
+
+197
+00:13:12,074 --> 00:13:13,325
+<b>Have a good day.</b>
+
+198
+00:13:14,477 --> 00:13:15,795
+<b>You too.</b>
+
+199
+00:13:18,114 --> 00:13:21,780
+<b>Well... I'll go check the C- section patient's pad.</b>
+
+200
+00:13:21,784 --> 00:13:23,175
+<b>Okay.</b>
+
+201
+00:13:26,522 --> 00:13:30,515
+<b>Oh, boy. A showdown between the bear and the fox.</b>
+
+202
+00:13:30,960 --> 00:13:33,945
+<b>- Who's the fox? - Isn't it obvious?</b>
+
+203
+00:13:37,466 --> 00:13:39,225
+<b>RESTRICTED AREA</b>
+
+204
+00:13:40,436 --> 00:13:44,425
+<b>Professor, Jeong Min- gyeong is exhibiting decelerations. I'll go check.</b>
+
+205
+00:13:45,274 --> 00:13:47,795
+<b>Give her 3L of oxygen via nasal prong, right?</b>
+
+206
+00:13:48,578 --> 00:13:49,865
+<b>Yes.</b>
+
+207
+00:13:50,646 --> 00:13:51,905
+<b>Okay.</b>
+
+208
+00:13:56,485 --> 00:13:57,880
+<b>What's taking him so long?</b>
+
+209
+00:13:57,887 --> 00:14:00,220
+<b>I should've offered to pick it up.</b>
+
+210
+00:14:00,223 --> 00:14:01,750
+<b>It's his minor personal satisfaction.</b>
+
+211
+00:14:01,757 --> 00:14:04,045
+<b>He's probably chatting with the delivery guy.</b>
+
+212
+00:14:07,129 --> 00:14:10,355
+<b>Couldn't you have hurried? We're dying of hunger here.</b>
+
+213
+00:14:10,499 --> 00:14:14,525
+<b>How can you talk about death so easily when you're a doctor?</b>
+
+214
+00:14:15,171 --> 00:14:18,440
+<b>Hong- do and Yun- bok, eat as much as you want.</b>
+
+215
+00:14:18,441 --> 00:14:20,640
+<b>Eat up and join our department later on.</b>
+
+216
+00:14:20,643 --> 00:14:22,070
+<b>- Okay. - Okay.</b>
+
+217
+00:14:22,078 --> 00:14:24,540
+<b>Here. If you don't, that's a eat and run.</b>
+
+218
+00:14:24,547 --> 00:14:26,205
+<b>- Okay. - Okay.</b>
+
+219
+00:14:26,315 --> 00:14:29,150
+<b>Can I have Double Bacon? It's my favorite sandwich.</b>
+
+220
+00:14:29,151 --> 00:14:31,075
+<b>My gosh, of course.</b>
+
+221
+00:14:31,687 --> 00:14:34,375
+<b>- You can have two. - Great, I will.</b>
+
+222
+00:14:34,790 --> 00:14:36,875
+<b>We'll still have leftovers.</b>
+
+223
+00:14:37,059 --> 00:14:38,715
+<b>So I called someone to join us.</b>
+
+224
+00:14:43,266 --> 00:14:46,025
+<b>Oh, Jeong- won is- -</b>
+
+225
+00:14:47,837 --> 00:14:50,255
+<b>- Sandwiches? Nice. - What the...</b>
+
+226
+00:14:50,473 --> 00:14:51,970
+<b>Well, he's a rain check.</b>
+
+227
+00:14:51,974 --> 00:14:55,265
+<b>You should have let me finish my sentence. Goodness.</b>
+
+228
+00:14:56,612 --> 00:14:58,035
+<b>Hello.</b>
+
+229
+00:14:58,114 --> 00:14:59,140
+<b>- Hello. - Hello.</b>
+
+230
+00:14:59,148 --> 00:15:00,805
+<b>Sit down, guys.</b>
+
+231
+00:15:02,652 --> 00:15:05,680
+<b>- But why am I a rain check? - Don't ask. You don't need to know.</b>
+
+232
+00:15:05,688 --> 00:15:08,475
+<b>Hurry and eat, or Gyeo- ul will eat everything. Here.</b>
+
+233
+00:15:10,693 --> 00:15:12,545
+<b>Oh. It's been a while, guys.</b>
+
+234
+00:15:13,829 --> 00:15:15,030
+<b>Gyeon- u and Jik- nyeo, right?</b>
+
+235
+00:15:15,031 --> 00:15:18,730
+<b>You called us like that last time, and I told you our names.</b>
+
+236
+00:15:18,734 --> 00:15:21,055
+<b>Right, they were some painters' names.</b>
+
+237
+00:15:22,038 --> 00:15:23,325
+<b>Ma- ne and Mo- ne?</b>
+
+238
+00:15:24,373 --> 00:15:26,040
+<b>We're Hong- do and Yun- bok.</b>
+
+239
+00:15:26,042 --> 00:15:29,870
+<b>Right. Gosh, I'm really sorry. We even did the Wakanda gesture together.</b>
+
+240
+00:15:29,879 --> 00:15:31,440
+<b>- Sorry, guys. - It's okay.</b>
+
+241
+00:15:31,447 --> 00:15:34,005
+<b>And Ma- ne and Mo- ne are our cousins.</b>
+
+242
+00:15:35,017 --> 00:15:36,810
+<b>What? Seriously?</b>
+
+243
+00:15:36,819 --> 00:15:38,105
+<b>Yes.</b>
+
+244
+00:15:40,289 --> 00:15:42,975
+<b>Don't tell me they're twins.</b>
+
+245
+00:15:43,259 --> 00:15:44,320
+<b>They are.</b>
+
+246
+00:15:44,327 --> 00:15:46,345
+<b>- Identical twins? - Identical twins.</b>
+
+247
+00:15:46,429 --> 00:15:48,155
+<b>- Five years old? - Five years old.</b>
+
+248
+00:15:49,532 --> 00:15:51,525
+<b>Why are you saying the exact same things?</b>
+
+249
+00:16:00,676 --> 00:16:02,095
+<b>Dr. Bong.</b>
+
+250
+00:16:03,446 --> 00:16:06,080
+<b>- Here, have some water. - You're having a late lunch.</b>
+
+251
+00:16:06,082 --> 00:16:07,605
+<b>I brought you some napkins.</b>
+
+252
+00:16:07,817 --> 00:16:12,505
+<b>Oh, I had an emergency patient. How did you guys all become friends?</b>
+
+253
+00:16:12,688 --> 00:16:15,120
+<b>We're both chief residents, and I've known him for a while.</b>
+
+254
+00:16:15,124 --> 00:16:18,760
+<b>As for Chi- hong, he's Seok- min's favorite.</b>
+
+255
+00:16:18,761 --> 00:16:20,960
+<b>- What? When did I say that? - Really?</b>
+
+256
+00:16:20,963 --> 00:16:23,560
+<b>I mean, he's very fond of you.</b>
+
+257
+00:16:23,566 --> 00:16:26,555
+<b>He talks about you all the time, so I feel like I know you so well.</b>
+
+258
+00:16:26,635 --> 00:16:30,195
+<b>By the way, why did you leave the military, Captain Ahn?</b>
+
+259
+00:16:30,239 --> 00:16:33,695
+<b>I bet it was because of a woman. Come on. Tell us.</b>
+
+260
+00:16:34,010 --> 00:16:37,905
+<b>There wasn't any special reason. I'll tell you another time.</b>
+
+261
+00:16:38,547 --> 00:16:42,575
+<b>I guess I should be like that too. It makes him look all mysterious.</b>
+
+262
+00:16:43,052 --> 00:16:44,305
+<b>Professor.</b>
+
+263
+00:16:45,187 --> 00:16:47,950
+<b>I wasn't sure what you'd like, so I got one of each.</b>
+
+264
+00:16:47,957 --> 00:16:50,250
+<b>An iced Americano, a hot Americano, and a latte.</b>
+
+265
+00:16:50,259 --> 00:16:51,685
+<b>Hello.</b>
+
+266
+00:16:52,461 --> 00:16:55,215
+<b>What kind of story shall I tell you guys today?</b>
+
+267
+00:16:55,965 --> 00:16:58,225
+<b>Dr. Chu, what happened to your face?</b>
+
+268
+00:16:58,367 --> 00:17:00,830
+<b>- What? - Your skin looks ashy. Are you okay?</b>
+
+269
+00:17:00,836 --> 00:17:03,995
+<b>My foundation is to blame. I'm wearing 25, which is quite dark.</b>
+
+270
+00:17:04,273 --> 00:17:07,810
+<b>It's too dark for you. Your neck looks much lighter than your face now.</b>
+
+271
+00:17:07,810 --> 00:17:10,010
+<b>This is the Black Pearl Makeup.</b>
+
+272
+00:17:10,012 --> 00:17:12,840
+<b>Your face looks tiny if you wear this because it makes you look tanned.</b>
+
+273
+00:17:12,848 --> 00:17:16,275
+<b>You look like you went to a tanning salon because you couldn't go on vacation.</b>
+
+274
+00:17:16,619 --> 00:17:19,350
+<b>By the way, how did you two become friends?</b>
+
+275
+00:17:19,355 --> 00:17:21,945
+<b>You're in different departments. Also, your ages and even</b>
+
+276
+00:17:22,291 --> 00:17:23,945
+<b>your skin colors are different.</b>
+
+277
+00:17:24,293 --> 00:17:26,045
+<b>We're both members of ARMY.</b>
+
+278
+00:17:26,195 --> 00:17:29,685
+<b>You served in the military together? Dr. Ahn, they're your juniors.</b>
+
+279
+00:17:30,266 --> 00:17:32,885
+<b>Not the army. They meant...</b>
+
+280
+00:17:32,968 --> 00:17:34,930
+<b>Did you get Internet service installed yesterday?</b>
+
+281
+00:17:34,937 --> 00:17:36,200
+<b>Yes.</b>
+
+282
+00:17:36,205 --> 00:17:41,595
+<b>I got ADSL Mega pass installed yesterday, the fastest Internet service in Korea.</b>
+
+283
+00:17:41,844 --> 00:17:44,180
+<b>I sold all my acorns</b>
+
+284
+00:17:44,180 --> 00:17:46,905
+<b>and used up all my KTF Bigi eggs for it.</b>
+
+285
+00:17:49,452 --> 00:17:50,950
+<b>- What's he saying? - Anyway...</b>
+
+286
+00:17:50,953 --> 00:17:55,490
+<b>So you two like BTS. My sister is a huge fan as well.</b>
+
+287
+00:17:55,491 --> 00:17:57,120
+<b>Yes, we met in the fan club.</b>
+
+288
+00:17:57,126 --> 00:18:00,420
+<b>Jeez, it looks like residents these days have so much time on their hands.</b>
+
+289
+00:18:00,429 --> 00:18:03,785
+<b>You guys have time to join a fan club and chat like this at the cafeteria.</b>
+
+290
+00:18:04,733 --> 00:18:06,860
+<b>- Back in my day- - - Professor, have this latte.</b>
+
+291
+00:18:06,869 --> 00:18:08,595
+<b>- A latte. - Yes.</b>
+
+292
+00:18:11,607 --> 00:18:14,635
+<b>Forget the cafeteria. We didn't even have time to eat.</b>
+
+293
+00:18:15,010 --> 00:18:18,380
+<b>Shall I tell you a story about when I was a resident?</b>
+
+294
+00:18:18,380 --> 00:18:20,405
+<b>- Bye. - Bye.</b>
+
+295
+00:18:20,983 --> 00:18:24,550
+<b>However, those two on the Gongnyong Ridge.</b>
+
+296
+00:18:24,553 --> 00:18:28,645
+<b>The first love. The old love. I should tell you guys the love story.</b>
+
+297
+00:18:30,059 --> 00:18:31,315
+<b>My goodness.</b>
+
+298
+00:18:35,898 --> 00:18:38,755
+<b>I'm not really interested though.</b>
+
+299
+00:18:39,935 --> 00:18:44,155
+<b>Ik- jun and Jun- wan were always dating someone. They were both popular.</b>
+
+300
+00:18:44,440 --> 00:18:47,165
+<b>I'm pretty sure they always had girlfriends.</b>
+
+301
+00:18:47,243 --> 00:18:49,510
+<b>Wow, really? I'm impressed.</b>
+
+302
+00:18:49,512 --> 00:18:51,580
+<b>Moving on. What about Professor Yang Seok- hyeong?</b>
+
+303
+00:18:51,580 --> 00:18:53,780
+<b>Seok- hyeong? He barely dated.</b>
+
+304
+00:18:53,782 --> 00:18:56,550
+<b>And he married the woman his parents chose.</b>
+
+305
+00:18:56,552 --> 00:18:58,350
+<b>They got a divorce in less than a year.</b>
+
+306
+00:18:58,354 --> 00:19:01,050
+<b>He went to the US right after that, but he did nothing but study.</b>
+
+307
+00:19:01,056 --> 00:19:02,315
+<b>I see.</b>
+
+308
+00:19:03,092 --> 00:19:05,745
+<b>But he's in love now. So in love.</b>
+
+309
+00:19:05,928 --> 00:19:07,445
+<b>What? With who?</b>
+
+310
+00:19:08,063 --> 00:19:09,315
+<b>With his TV.</b>
+
+311
+00:19:10,132 --> 00:19:12,685
+<b>No woman can beat his TV.</b>
+
+312
+00:19:13,235 --> 00:19:15,430
+<b>What about Professor Chae? Was she a campus couple?</b>
+
+313
+00:19:15,437 --> 00:19:17,200
+<b>Yes, she was.</b>
+
+314
+00:19:17,206 --> 00:19:19,470
+<b>- Professor Lee Ik- jun, right? - Ik- jun?</b>
+
+315
+00:19:19,475 --> 00:19:22,635
+<b>Gosh, no. They're really just friends.</b>
+
+316
+00:19:22,711 --> 00:19:25,710
+<b>Was it from the winter of her freshman year or her second year?</b>
+
+317
+00:19:25,714 --> 00:19:27,865
+<b>Anyway, she was in a long- term relationship.</b>
+
+318
+00:19:27,883 --> 00:19:29,710
+<b>She dated a senior guy for a number of years.</b>
+
+319
+00:19:29,718 --> 00:19:33,720
+<b>They dated for over three to four years, and she dated other guys after that too.</b>
+
+320
+00:19:33,722 --> 00:19:35,475
+<b>She just doesn't want to get married.</b>
+
+321
+00:19:35,925 --> 00:19:37,815
+<b>What about Professor Ahn Jeong- won?</b>
+
+322
+00:19:39,428 --> 00:19:42,255
+<b>If anyone has a crush on Jeong- won,</b>
+
+323
+00:19:43,098 --> 00:19:45,055
+<b>that person will have to beat God first.</b>
+
+324
+00:19:45,234 --> 00:19:47,500
+<b>Gosh, who can do that?</b>
+
+325
+00:19:47,503 --> 00:19:50,430
+<b>If there is someone that likes him, she should give up.</b>
+
+326
+00:19:50,439 --> 00:19:54,425
+<b>How dare she compete against God?</b>
+
+327
+00:19:59,448 --> 00:20:00,765
+<b>Dr. Jang.</b>
+
+328
+00:20:01,317 --> 00:20:02,675
+<b>Are you a Buddhist?</b>
+
+329
+00:20:03,619 --> 00:20:06,275
+<b>This is probably making you uncomfortable.</b>
+
+330
+00:20:07,423 --> 00:20:08,850
+<b>Let's change the topic.</b>
+
+331
+00:20:08,857 --> 00:20:12,715
+<b>Okay, we are done. Finished.</b>
+
+332
+00:20:14,230 --> 00:20:17,055
+<b>YULJE MEDICAL CENTER</b>
+
+333
+00:20:30,346 --> 00:20:32,135
+<b>Why are you still up?</b>
+
+334
+00:20:33,482 --> 00:20:35,935
+<b>- I'm studying the EVD procedure. - EVD?</b>
+
+335
+00:20:36,819 --> 00:20:38,805
+<b>We do that all the time.</b>
+
+336
+00:20:38,988 --> 00:20:42,915
+<b>When we get an IVH patient, I'll be the lead surgeon for the surgery.</b>
+
+337
+00:20:45,294 --> 00:20:46,585
+<b>What?</b>
+
+338
+00:20:47,029 --> 00:20:49,230
+<b>You still haven't done that yet?</b>
+
+339
+00:20:49,231 --> 00:20:51,985
+<b>Gosh, Professor Chae is too much.</b>
+
+340
+00:20:52,034 --> 00:20:55,955
+<b>I did it in my second year.</b>
+
+341
+00:20:58,374 --> 00:21:00,540
+<b>- Good luck. - Thanks.</b>
+
+342
+00:21:00,542 --> 00:21:04,565
+<b>You'll probably get scolded,</b>
+
+343
+00:21:05,080 --> 00:21:07,510
+<b>- but still... Best of luck. - Thanks.</b>
+
+344
+00:21:07,516 --> 00:21:09,275
+<b>Professor Chae...</b>
+
+345
+00:21:10,152 --> 00:21:12,845
+<b>When you make a mistake for the first time, she lets it go.</b>
+
+346
+00:21:13,155 --> 00:21:14,975
+<b>But if you make another mistake...</b>
+
+347
+00:21:19,361 --> 00:21:21,315
+<b>Anyway, you can do it.</b>
+
+348
+00:21:21,497 --> 00:21:22,785
+<b>Thanks.</b>
+
+349
+00:21:29,071 --> 00:21:31,125
+<b>I can do this too.</b>
+
+350
+00:22:00,135 --> 00:22:01,825
+<b>Why don't you just shower here?</b>
+
+351
+00:22:02,805 --> 00:22:05,295
+<b>Oh, Professor Cheon. I'm sorry.</b>
+
+352
+00:22:06,208 --> 00:22:07,465
+<b>Do you have surgery?</b>
+
+353
+00:22:07,743 --> 00:22:10,735
+<b>Yes, I'm going into Professor Kim Jun- wan's VSD surgery.</b>
+
+354
+00:22:11,046 --> 00:22:12,965
+<b>You two are like besties.</b>
+
+355
+00:22:14,817 --> 00:22:16,205
+<b>Yes.</b>
+
+356
+00:22:17,219 --> 00:22:19,105
+<b>He's quite fond of me.</b>
+
+357
+00:22:19,621 --> 00:22:22,845
+<b>- He speaks very highly of you. - No way.</b>
+
+358
+00:22:23,959 --> 00:22:26,745
+<b>- Thank you. - All right, get going.</b>
+
+359
+00:22:26,929 --> 00:22:28,585
+<b>Oh, right.</b>
+
+360
+00:22:33,102 --> 00:22:35,525
+<i><b>What's with him today? He didn't even swear at me.</i></b>
+
+361
+00:22:36,505 --> 00:22:40,470
+<b>First, we'll block the hole between the left and right ventricles.</b>
+
+362
+00:22:40,476 --> 00:22:44,110
+<b>If the mitral regurgitation continues even after we block the VSD,</b>
+
+363
+00:22:44,113 --> 00:22:46,165
+<b>we'll fix that too.</b>
+
+364
+00:22:46,448 --> 00:22:49,610
+<b>We expect that it'll take about five hours.</b>
+
+365
+00:22:49,618 --> 00:22:50,980
+<b>Don't worry too much.</b>
+
+366
+00:22:50,986 --> 00:22:53,945
+<b>Okay. Thank you for everything in advance, Doctor.</b>
+
+367
+00:22:54,289 --> 00:22:56,845
+<b>- Thank you, Doctor. - No problem. I'll see you later.</b>
+
+368
+00:23:13,442 --> 00:23:16,635
+<b>SURGERY IN PROGRESS</b>
+
+369
+00:23:18,180 --> 00:23:21,535
+<b>Captain Ahn will get an earful from Professor Chae today.</b>
+
+370
+00:23:21,884 --> 00:23:25,875
+<b>It's so hard to set Kocher's point when you can't see the coronal suture.</b>
+
+371
+00:23:26,021 --> 00:23:28,245
+<b>Go in and watch. You guys are in the same year.</b>
+
+372
+00:23:28,390 --> 00:23:30,190
+<b>I can't. I'm too nervous for him.</b>
+
+373
+00:23:30,192 --> 00:23:32,785
+<b>I'm even more nervous now than when I had to do it.</b>
+
+374
+00:23:40,803 --> 00:23:42,825
+<b>Can you see the coronal suture?</b>
+
+375
+00:23:42,871 --> 00:23:44,125
+<b>I'll try again.</b>
+
+376
+00:23:44,339 --> 00:23:47,670
+<b>Sometimes, you can't see it because of the blood. Use gauze.</b>
+
+377
+00:23:47,676 --> 00:23:49,465
+<b>Okay. Forceps.</b>
+
+378
+00:24:32,588 --> 00:24:33,680
+<b>Bone wax, please.</b>
+
+379
+00:24:33,689 --> 00:24:35,815
+<b>WAXY SUBSTANCE USED TO CONTROL BLEEDING</b>
+
+380
+00:24:39,595 --> 00:24:42,190
+<b>Try to control bleeding with bone wax while you're at it.</b>
+
+381
+00:24:42,197 --> 00:24:44,500
+<b>Heavy bleeding may occur when you use the curette.</b>
+
+382
+00:24:44,500 --> 00:24:46,225
+<b>- Be careful. - Okay.</b>
+
+383
+00:24:49,204 --> 00:24:50,625
+<b>Curette.</b>
+
+384
+00:25:06,088 --> 00:25:07,645
+<b>Tilt it a little.</b>
+
+385
+00:25:07,956 --> 00:25:10,675
+<b>No, up.</b>
+
+386
+00:25:12,394 --> 00:25:13,685
+<b>Good.</b>
+
+387
+00:25:27,442 --> 00:25:30,640
+<b>Well done. I think the angles on the left and right are wrong.</b>
+
+388
+00:25:30,646 --> 00:25:33,735
+<b>Let's wrap up here. Can you pull it out?</b>
+
+389
+00:25:34,349 --> 00:25:35,835
+<b>Sure.</b>
+
+390
+00:25:41,957 --> 00:25:45,545
+<b>This has to go in straight.</b>
+
+391
+00:25:45,727 --> 00:25:49,255
+<b>You need to look at the inner canthus, but you're not used to it yet.</b>
+
+392
+00:25:49,531 --> 00:25:51,015
+<b>Got it. I'm sorry.</b>
+
+393
+00:25:51,800 --> 00:25:54,625
+<b>This is a common mistake. Just do a good job next time.</b>
+
+394
+00:25:54,970 --> 00:25:56,225
+<b>Okay.</b>
+
+395
+00:25:57,606 --> 00:25:59,125
+<b>Bayonet forceps, please.</b>
+
+396
+00:26:12,955 --> 00:26:14,805
+<b>Blade 15.</b>
+
+397
+00:26:32,541 --> 00:26:33,965
+<b>I cut through it again.</b>
+
+398
+00:26:34,776 --> 00:26:36,795
+<b>How many times have I done this already?</b>
+
+399
+00:26:37,713 --> 00:26:40,805
+<b>The valve is so delicate.</b>
+
+400
+00:26:44,252 --> 00:26:46,145
+<b>Get me a smaller needle.</b>
+
+401
+00:26:50,926 --> 00:26:53,415
+<b>ELAPSED TIME</b>
+
+402
+00:26:53,729 --> 00:26:56,655
+<b>Honey, it's been over nine hours.</b>
+
+403
+00:26:57,165 --> 00:26:59,185
+<b>He said it'd take around five hours.</b>
+
+404
+00:27:03,005 --> 00:27:04,325
+<b>What if</b>
+
+405
+00:27:06,441 --> 00:27:08,495
+<b>something went wrong?</b>
+
+406
+00:27:16,918 --> 00:27:19,350
+<b>All right. Let's go in together.</b>
+
+407
+00:27:19,354 --> 00:27:20,775
+<b>Okay.</b>
+
+408
+00:27:25,394 --> 00:27:28,515
+<b>It took longer than we had expected.</b>
+
+409
+00:27:29,898 --> 00:27:31,855
+<b>Even I wanted to cut my hand off.</b>
+
+410
+00:27:32,100 --> 00:27:34,655
+<b>- Pardon? - Gosh, Doctor!</b>
+
+411
+00:27:35,337 --> 00:27:37,630
+<b>After repairing the ventricular septal defect,</b>
+
+412
+00:27:37,639 --> 00:27:40,800
+<b>the mitral regurgitation was quite severe, so I tried to fix it.</b>
+
+413
+00:27:40,809 --> 00:27:44,040
+<b>But the regurgitation continued to worsen because the tissues kept ripping.</b>
+
+414
+00:27:44,046 --> 00:27:47,005
+<b>Right. But in conclusion, everything went well.</b>
+
+415
+00:27:47,849 --> 00:27:50,005
+<b>- I see. Thank you. - Thank you.</b>
+
+416
+00:27:50,052 --> 00:27:51,420
+<b>So Chang- mo is okay, right?</b>
+
+417
+00:27:51,420 --> 00:27:54,480
+<b>He bled quite a bit halfway through, so we struggled a little,</b>
+
+418
+00:27:54,489 --> 00:27:55,850
+<b>but the surgery went well.</b>
+
+419
+00:27:55,857 --> 00:27:58,790
+<b>Then when can we see Chang- mo?</b>
+
+420
+00:27:58,794 --> 00:28:00,890
+<b>We managed to minimize the regurgitation,</b>
+
+421
+00:28:00,896 --> 00:28:03,055
+<b>so the baby is stable now.</b>
+
+422
+00:28:03,398 --> 00:28:06,930
+<b>As I explained before, we'll put Chang- mo to sleep for the next three days- -</b>
+
+423
+00:28:06,935 --> 00:28:09,770
+<b>You'll be able to see Chang- mo shortly in the PICU.</b>
+
+424
+00:28:09,771 --> 00:28:11,725
+<b>Don't worry about a thing.</b>
+
+425
+00:28:11,807 --> 00:28:13,995
+<b>- Honey, we can see him shortly. - Yes.</b>
+
+426
+00:28:14,409 --> 00:28:16,765
+<b>- Thank you so much. - Thank you.</b>
+
+427
+00:28:17,112 --> 00:28:21,205
+<b>Professor, you need to state the conclusion first.</b>
+
+428
+00:28:21,950 --> 00:28:25,620
+<b>Start with the conclusion, whether it went well or not.</b>
+
+429
+00:28:25,620 --> 00:28:30,345
+<b>Doctors must inform the guardians about everything that happens in the OR.</b>
+
+430
+00:28:30,492 --> 00:28:32,460
+<b>From beginning to end, in a calm manner.</b>
+
+431
+00:28:32,461 --> 00:28:37,285
+<b>If you keep doing that, every guardian will get a heart attack.</b>
+
+432
+00:28:37,833 --> 00:28:39,425
+<b>Gosh, seriously.</b>
+
+433
+00:28:40,035 --> 00:28:42,855
+<b>You're so insensitive sometimes.</b>
+
+434
+00:28:42,971 --> 00:28:45,055
+<b>I'm not telling you to sugarcoat things.</b>
+
+435
+00:28:45,307 --> 00:28:49,010
+<b>State the facts. But first, you need to ease their minds.</b>
+
+436
+00:28:49,010 --> 00:28:51,135
+<b>Gosh, forget it.</b>
+
+437
+00:28:53,381 --> 00:28:56,875
+<b>Hey, my mom never scolded like that even when I was five.</b>
+
+438
+00:28:57,052 --> 00:28:59,450
+<b>He's right. Can you be more considerate when you talk?</b>
+
+439
+00:28:59,454 --> 00:29:01,350
+<b>Dr. Do, well done.</b>
+
+440
+00:29:01,356 --> 00:29:04,120
+<b>- Hello, Professor. - Yes, hello.</b>
+
+441
+00:29:04,126 --> 00:29:06,820
+<b>Please talk casually to me.</b>
+
+442
+00:29:06,828 --> 00:29:08,145
+<b>Gosh, no.</b>
+
+443
+00:29:08,663 --> 00:29:11,885
+<b>Don't you have to go home? You took a shower, so go home already!</b>
+
+444
+00:29:12,234 --> 00:29:14,800
+<b>A baby got surgery for enteroclysis earlier in the day.</b>
+
+445
+00:29:14,803 --> 00:29:16,400
+<b>But there was some bleeding,</b>
+
+446
+00:29:16,404 --> 00:29:19,825
+<b>so I want to monitor the baby's vitals tonight.</b>
+
+447
+00:29:20,142 --> 00:29:22,340
+<b>You sure live up to your nickname, Buddha.</b>
+
+448
+00:29:22,344 --> 00:29:24,895
+<b>You should've done a better job with the surgery.</b>
+
+449
+00:29:25,847 --> 00:29:27,935
+<b>And you too live up to...</b>
+
+450
+00:29:28,316 --> 00:29:31,235
+<b>Right, you sure are Buddha's buddy.</b>
+
+451
+00:29:31,787 --> 00:29:33,075
+<b>I'm Catholic.</b>
+
+452
+00:29:33,321 --> 00:29:36,815
+<b>I knew it! My wife is a devoted Catholic.</b>
+
+453
+00:29:36,992 --> 00:29:41,060
+<b>Catholics are beautiful inside and out.</b>
+
+454
+00:29:41,062 --> 00:29:42,615
+<b>Thank you.</b>
+
+455
+00:29:44,399 --> 00:29:45,955
+<b>Oh, right.</b>
+
+456
+00:29:46,601 --> 00:29:50,325
+<b>Is there a professor named Cheon Myeong- tae in your department?</b>
+
+457
+00:29:50,705 --> 00:29:51,900
+<b>Yes. Why do you ask?</b>
+
+458
+00:29:51,907 --> 00:29:55,535
+<b>I heard we received an anonymous letter about a pharmaceutical company's rebate.</b>
+
+459
+00:29:55,844 --> 00:29:57,040
+<b>He got a golf club membership</b>
+
+460
+00:29:57,045 --> 00:30:01,635
+<b>and free meals at an upscale restaurant through them.</b>
+
+461
+00:30:02,284 --> 00:30:04,210
+<b>It sounds like most CS professors did it.</b>
+
+462
+00:30:04,219 --> 00:30:05,875
+<b>Hey, you didn't go, right?</b>
+
+463
+00:30:16,431 --> 00:30:19,655
+<b>Of course, I go often. My brother owns the golf club.</b>
+
+464
+00:30:23,271 --> 00:30:24,655
+<b>By the way,</b>
+
+465
+00:30:24,739 --> 00:30:27,065
+<b>who told you?</b>
+
+466
+00:30:27,776 --> 00:30:30,140
+<b>That you don't need to know.</b>
+
+467
+00:30:30,145 --> 00:30:33,940
+<b>I heard it was paid for with XG&YU's corporate credit card.</b>
+
+468
+00:30:33,949 --> 00:30:36,875
+<b>A guy who works there put it on the wrong card.</b>
+
+469
+00:30:37,285 --> 00:30:42,045
+<b>We play golf together often, so he got confused.</b>
+
+470
+00:30:42,290 --> 00:30:44,745
+<b>He kept apologizing.</b>
+
+471
+00:30:45,160 --> 00:30:48,015
+<b>Even today, he sent me over ten messages.</b>
+
+472
+00:30:50,265 --> 00:30:54,685
+<b>Sir, please. Don't make me look so petty.</b>
+
+473
+00:30:54,903 --> 00:30:58,195
+<b>A day on the golf course costs peanuts.</b>
+
+474
+00:30:59,341 --> 00:31:02,535
+<b>"Peanuts"? I heard the membership for the golf course</b>
+
+475
+00:31:05,547 --> 00:31:07,180
+<b>costs two hundred million won.</b>
+
+476
+00:31:07,182 --> 00:31:11,275
+<b>My brother owns the golf club, and I'm a member too.</b>
+
+477
+00:31:11,453 --> 00:31:14,005
+<b>Please believe me. It is not what you think it is.</b>
+
+478
+00:31:16,124 --> 00:31:17,415
+<b>Professor Kim Jun- wan</b>
+
+479
+00:31:17,859 --> 00:31:19,590
+<b>got a big mouth.</b>
+
+480
+00:31:19,594 --> 00:31:21,445
+<b>He kept overreacting.</b>
+
+481
+00:31:21,630 --> 00:31:25,055
+<b>I see that he practically wrote a novel.</b>
+
+482
+00:31:36,678 --> 00:31:40,705
+<b>Stop sighing. Are you trying to make the floor collapse or what?</b>
+
+483
+00:31:45,320 --> 00:31:47,105
+<b>I'm so embarrassed.</b>
+
+484
+00:31:49,624 --> 00:31:52,320
+<b>During Seon- bin's first surgery as a lead surgeon,</b>
+
+485
+00:31:52,327 --> 00:31:54,745
+<b>she suddenly put up both hands like this and said,</b>
+
+486
+00:31:56,631 --> 00:31:59,985
+<b>"I can't do this. I'm afraid I'll end up killing this patient."</b>
+
+487
+00:32:02,437 --> 00:32:04,955
+<b>Come on. Let's grab a drink together.</b>
+
+488
+00:32:05,407 --> 00:32:07,595
+<b>I can't. I'm working the night shift today.</b>
+
+489
+00:32:07,742 --> 00:32:09,010
+<b>Oh, boy.</b>
+
+490
+00:32:09,010 --> 00:32:12,665
+<b>I'm dying for a drink, but I happen to be working the night shift today.</b>
+
+491
+00:32:18,586 --> 00:32:20,480
+<b>- You're still here? - How's the baby?</b>
+
+492
+00:32:20,488 --> 00:32:24,115
+<b>The baby is doing okay at the moment. I'll check back later.</b>
+
+493
+00:32:24,960 --> 00:32:27,415
+<b>I hope you didn't play golf with Professor Cheon.</b>
+
+494
+00:32:28,663 --> 00:32:31,160
+<b>- I did, once. - What? You did?</b>
+
+495
+00:32:31,166 --> 00:32:33,855
+<b>The golf course there is really great.</b>
+
+496
+00:32:34,035 --> 00:32:35,500
+<b>The ball rolls in by itself.</b>
+
+497
+00:32:35,503 --> 00:32:38,500
+<b>Damn it. This will turn into a headache, then.</b>
+
+498
+00:32:38,506 --> 00:32:41,595
+<b>No, it won't. I paid for it myself.</b>
+
+499
+00:32:41,977 --> 00:32:42,910
+<b>How?</b>
+
+500
+00:32:42,911 --> 00:32:45,740
+<b>Didn't you guys use XG&YU's corporate card and their membership?</b>
+
+501
+00:32:45,747 --> 00:32:48,710
+<b>I kept getting a bad feeling during the game.</b>
+
+502
+00:32:48,717 --> 00:32:50,780
+<b>Professor Cheon always brags about his money,</b>
+
+503
+00:32:50,785 --> 00:32:52,850
+<b>so I assumed we were using his membership.</b>
+
+504
+00:32:52,854 --> 00:32:55,550
+<b>But something seemed off when we were cashing out.</b>
+
+505
+00:32:55,557 --> 00:32:57,950
+<b>So I went back and asked the staff</b>
+
+506
+00:32:57,959 --> 00:33:00,115
+<b>if we used their corporate credit card.</b>
+
+507
+00:33:00,362 --> 00:33:02,815
+<b>He said yes, so I paid for mine on the spot and left.</b>
+
+508
+00:33:03,064 --> 00:33:04,685
+<b>How much did you pay?</b>
+
+509
+00:33:04,899 --> 00:33:07,230
+<b>The most expensive membership is 200 million won.</b>
+
+510
+00:33:07,235 --> 00:33:08,600
+<b>It's usually for about 20 years,</b>
+
+511
+00:33:08,603 --> 00:33:10,430
+<b>so I multiplied it by 365, and it was 7,300.</b>
+
+512
+00:33:10,438 --> 00:33:13,440
+<b>Then it's about 27,397 won per day after dividing 200 million by 7,300 days.</b>
+
+513
+00:33:13,441 --> 00:33:17,070
+<b>Round it up to 28,000 won. The green fee was about 150,000 won,</b>
+
+514
+00:33:17,078 --> 00:33:18,740
+<b>and the cart was 20,000 won per person.</b>
+
+515
+00:33:18,747 --> 00:33:20,580
+<b>On top of that, the caddie fee was 30,000 won per person.</b>
+
+516
+00:33:20,582 --> 00:33:22,905
+<b>So I paid 228,000 won in total.</b>
+
+517
+00:33:24,586 --> 00:33:28,345
+<b>What? My GPA was second- highest in the entire Natural Science division.</b>
+
+518
+00:33:28,556 --> 00:33:31,345
+<b>Right, I'm relieved.</b>
+
+519
+00:33:31,926 --> 00:33:34,915
+<b>Gosh. Knowing how much you love golf,</b>
+
+520
+00:33:35,263 --> 00:33:38,085
+<b>I was worried you might've hung out with them without thinking.</b>
+
+521
+00:33:39,334 --> 00:33:40,685
+<b>Jeong- won.</b>
+
+522
+00:33:41,770 --> 00:33:43,155
+<b>These days,</b>
+
+523
+00:33:44,239 --> 00:33:46,565
+<b>I'm not even thinking about golf.</b>
+
+524
+00:33:47,075 --> 00:33:48,365
+<b>Bye.</b>
+
+525
+00:33:50,979 --> 00:33:52,235
+<b>Goodness.</b>
+
+526
+00:33:55,116 --> 00:33:57,175
+<b>Professor, did you go there too?</b>
+
+527
+00:33:57,752 --> 00:33:59,620
+<b>Did you play golf last weekend?</b>
+
+528
+00:33:59,621 --> 00:34:01,875
+<b>It's none of your business! It's personal.</b>
+
+529
+00:34:01,990 --> 00:34:04,445
+<b>Why are you interrogating me like this?</b>
+
+530
+00:34:04,659 --> 00:34:06,285
+<b>Gosh, you're such a nuisance.</b>
+
+531
+00:34:06,594 --> 00:34:09,360
+<b>Hey, you keep acting up these days.</b>
+
+532
+00:34:09,364 --> 00:34:11,185
+<b>Enough. Mind your own business.</b>
+
+533
+00:34:11,966 --> 00:34:14,855
+<b>Then tell me what you did last weekend.</b>
+
+534
+00:34:16,204 --> 00:34:17,955
+<b>What did you do last weekend?</b>
+
+535
+00:34:18,907 --> 00:34:20,170
+<b>I ate <i>jajangmyeon</i>.</b>
+
+536
+00:34:20,175 --> 00:34:22,395
+<i><b>Jajangmyeon</i>? What?</b>
+
+537
+00:34:23,945 --> 00:34:26,435
+<b>I had <i>buljajangmyeon</i>. Are we good now?</b>
+
+538
+00:34:31,820 --> 00:34:33,275
+<b>Good call.</b>
+
+539
+00:34:38,159 --> 00:34:42,455
+<b>BEST MENU: <i>BULJAJANGMYEON</i> NEW MENU: NUKE <i>BULJAJANGMYEON</i></b>
+
+540
+00:34:45,533 --> 00:34:48,385
+<b>Look at this name. It's so gutsy.</b>
+
+541
+00:34:48,470 --> 00:34:49,870
+<b>Don't your colleagues complain?</b>
+
+542
+00:34:49,871 --> 00:34:51,795
+<b>Even our commander is a regular here.</b>
+
+543
+00:34:54,042 --> 00:34:59,135
+<b>AUTHENTIC CHINESE RESTAURANT NUCLEAR KITCHEN</b>
+
+544
+00:35:00,515 --> 00:35:02,005
+<b>Enjoy.</b>
+
+545
+00:35:04,085 --> 00:35:06,420
+<b>It's one level below the one we had last week.</b>
+
+546
+00:35:06,421 --> 00:35:10,645
+<b>- Which level is this? - Level Four. Last week, we had Level Five.</b>
+
+547
+00:35:10,725 --> 00:35:13,645
+<b>- Were you okay last week? - I almost had to go to the ER.</b>
+
+548
+00:35:14,762 --> 00:35:19,430
+<b>I can definitely handle spicy food, but the one we had last week was hard.</b>
+
+549
+00:35:19,434 --> 00:35:22,555
+<b>This one looks quite spicy too.</b>
+
+550
+00:35:22,871 --> 00:35:26,925
+<b>The <i>buljajangmyeon</i> here should be used as the ROKA's new secret weapon.</b>
+
+551
+00:35:27,675 --> 00:35:30,695
+<b>Watch what you say. My unit is right across the street.</b>
+
+552
+00:35:30,912 --> 00:35:33,440
+<b>Who cares? My girlfriend is a major.</b>
+
+553
+00:35:33,448 --> 00:35:35,280
+<b>I bet only a handful of people outrank you.</b>
+
+554
+00:35:35,283 --> 00:35:38,920
+<b>No, there are so many officers who outrank me. There's a ton.</b>
+
+555
+00:35:38,920 --> 00:35:42,205
+<b>A lieutenant general, then a general?</b>
+
+556
+00:35:45,093 --> 00:35:47,815
+<b>Jun- wan. You were exempted, weren't you?</b>
+
+557
+00:35:49,264 --> 00:35:52,285
+<b>There's no three- star general in my division.</b>
+
+558
+00:35:52,934 --> 00:35:57,295
+<b>I knew it. I wondered how you became a professor before my brother did.</b>
+
+559
+00:36:01,075 --> 00:36:03,035
+<b>That's right. I was exempted.</b>
+
+560
+00:36:04,279 --> 00:36:08,635
+<b>What do you say? Do you want to hear my story? It's very long.</b>
+
+561
+00:36:08,783 --> 00:36:10,875
+<b>No, thanks. I'm sure you had your reason.</b>
+
+562
+00:36:10,952 --> 00:36:15,245
+<b>By the way, did you just mix my <i>jajangmyeon</i> for me?</b>
+
+563
+00:36:15,456 --> 00:36:16,845
+<b>Yes.</b>
+
+564
+00:36:18,826 --> 00:36:21,315
+<b>I'm so touched.</b>
+
+565
+00:36:21,896 --> 00:36:23,555
+<b>What? This is nothing.</b>
+
+566
+00:36:27,669 --> 00:36:30,930
+<b>Do you do this for my brother or your roomie, Jeong- won?</b>
+
+567
+00:36:30,939 --> 00:36:32,495
+<b>Hell no.</b>
+
+568
+00:36:33,241 --> 00:36:36,240
+<b>Why would I do it for them? We're always busy stuffing our own faces.</b>
+
+569
+00:36:36,244 --> 00:36:37,770
+<b>I don't even do it for my mom.</b>
+
+570
+00:36:37,779 --> 00:36:39,205
+<b>Because it's you...</b>
+
+571
+00:36:43,017 --> 00:36:44,775
+<b>I only do it for you.</b>
+
+572
+00:37:26,694 --> 00:37:28,520
+<b>Did you get an emergency call already?</b>
+
+573
+00:37:28,529 --> 00:37:30,455
+<b>No, I'm late.</b>
+
+574
+00:37:30,498 --> 00:37:32,560
+<b>Don't you still have some time until your rounds?</b>
+
+575
+00:37:32,567 --> 00:37:34,800
+<b>I'm late for breakfast. I never skip breakfast.</b>
+
+576
+00:37:34,802 --> 00:37:36,655
+<b>Oh, Dr. Jang Gyeo- ul is here.</b>
+
+577
+00:37:37,038 --> 00:37:39,340
+<b>What? It's fall already?</b>
+
+578
+00:37:39,340 --> 00:37:41,495
+<b>Gosh, is fall here already?</b>
+
+579
+00:37:41,609 --> 00:37:45,965
+<b>Right? I put on this trench coat today because of her.</b>
+
+580
+00:37:46,547 --> 00:37:48,605
+<b>What are you two talking about?</b>
+
+581
+00:37:48,916 --> 00:37:51,850
+<b>When you start wearing your denim shirt, that means fall is here.</b>
+
+582
+00:37:51,853 --> 00:37:54,345
+<b>When we see your white T- shirt, we know it's summer.</b>
+
+583
+00:37:54,522 --> 00:37:57,815
+<b>For us, you're like an indicator of the passage of time.</b>
+
+584
+00:37:57,992 --> 00:37:59,490
+<b>So I'm like your human calendar.</b>
+
+585
+00:37:59,494 --> 00:38:02,045
+<b>- Exactly. - Let's go, Dr. Jang.</b>
+
+586
+00:38:02,063 --> 00:38:05,755
+<b>Breakfast is on me since you informed me that fall is here.</b>
+
+587
+00:38:06,601 --> 00:38:08,400
+<b>You'll buy me breakfast?</b>
+
+588
+00:38:08,403 --> 00:38:12,595
+<b>Yes, Professor Kim Jun- wan gave me his card.</b>
+
+589
+00:38:13,007 --> 00:38:15,425
+<b>He gave me this yesterday, but I haven't returned it.</b>
+
+590
+00:38:16,177 --> 00:38:20,210
+<b>Something good must've happened to him. He's always in a good mood.</b>
+
+591
+00:38:20,214 --> 00:38:22,935
+<b>I bet he has no idea that I still have his card.</b>
+
+592
+00:38:23,217 --> 00:38:24,605
+<b>Let's hurry.</b>
+
+593
+00:38:28,122 --> 00:38:29,850
+<b>A male patient, age 29.</b>
+
+594
+00:38:29,857 --> 00:38:32,615
+<b>Based on his MRI, it looks like he has an astrocytoma.</b>
+
+595
+00:38:32,760 --> 00:38:35,930
+<b>The tumor is in the dominant hemisphere, and the size is about 7cm.</b>
+
+596
+00:38:35,930 --> 00:38:39,655
+<b>We'll have him get a navigation CT and a TFCA this afternoon.</b>
+
+597
+00:38:39,934 --> 00:38:43,325
+<b>Doctor. The surgery won't be difficult, right?</b>
+
+598
+00:38:43,471 --> 00:38:48,770
+<b>Everyone around us is worried, saying awake surgery is a difficult procedure.</b>
+
+599
+00:38:48,776 --> 00:38:51,270
+<b>There aren't any easy brain surgeries.</b>
+
+600
+00:38:51,279 --> 00:38:53,735
+<b>Awake surgery is an especially complicated procedure.</b>
+
+601
+00:38:54,415 --> 00:38:57,610
+<b>As I explained before, Hyeon- su's tumor</b>
+
+602
+00:38:57,618 --> 00:39:01,050
+<b>has seeped into his normal brain tissues, so the divide has been blurred.</b>
+
+603
+00:39:01,055 --> 00:39:03,475
+<b>That's why I think awake surgery will be helpful.</b>
+
+604
+00:39:03,491 --> 00:39:08,160
+<b>Based on my experience, it's highly likely that the tumor is affecting</b>
+
+605
+00:39:08,162 --> 00:39:10,990
+<b>the parts of his brain that perform important functions.</b>
+
+606
+00:39:10,998 --> 00:39:13,500
+<b>We'll wake him up briefly during the surgery</b>
+
+607
+00:39:13,501 --> 00:39:17,430
+<b>so that we can remove the tumor while checking his neurological symptoms.</b>
+
+608
+00:39:17,438 --> 00:39:19,670
+<b>He's still young,</b>
+
+609
+00:39:19,674 --> 00:39:23,410
+<b>so it's very important to minimize post- surgical neurological complications.</b>
+
+610
+00:39:23,411 --> 00:39:25,495
+<b>How long will the surgery take?</b>
+
+611
+00:39:25,546 --> 00:39:28,080
+<b>It all depends,</b>
+
+612
+00:39:28,082 --> 00:39:30,610
+<b>but it usually takes seven to eight hours.</b>
+
+613
+00:39:30,618 --> 00:39:34,650
+<b>And the amount of time the patient is kept awake can vary,</b>
+
+614
+00:39:34,655 --> 00:39:37,345
+<b>but I'd say it usually ranges from 30 minutes to an hour.</b>
+
+615
+00:39:38,159 --> 00:39:40,590
+<b>I'll quickly figure out brain functions around the tumor</b>
+
+616
+00:39:40,595 --> 00:39:43,460
+<b>so that we can minimize the time he has to stay awake for.</b>
+
+617
+00:39:43,464 --> 00:39:45,825
+<b>The experience can traumatize some patients.</b>
+
+618
+00:39:46,167 --> 00:39:47,425
+<b>Okay.</b>
+
+619
+00:39:47,468 --> 00:39:49,030
+<b>You have a day before the surgery,</b>
+
+620
+00:39:49,036 --> 00:39:52,770
+<b>so let us know if you're too scared or concerned.</b>
+
+621
+00:39:52,774 --> 00:39:54,725
+<b>Your condition matters the most.</b>
+
+622
+00:39:55,343 --> 00:39:58,065
+<b>I don't care.</b>
+
+623
+00:39:58,346 --> 00:40:00,465
+<b>I'll do as you say.</b>
+
+624
+00:40:00,715 --> 00:40:05,780
+<b>Hyeon- su, you can work again after you get this surgery.</b>
+
+625
+00:40:05,787 --> 00:40:07,680
+<b>Don't be so listless.</b>
+
+626
+00:40:07,688 --> 00:40:10,315
+<b>How can I go back to work?</b>
+
+627
+00:40:10,858 --> 00:40:12,860
+<b>Stop talking nonsense, Mom.</b>
+
+628
+00:40:12,860 --> 00:40:16,830
+<b>Why not? You can totally do it.</b>
+
+629
+00:40:16,831 --> 00:40:20,730
+<b>I heard you're a cop. It's very difficult to become a cop.</b>
+
+630
+00:40:20,735 --> 00:40:24,470
+<b>You even passed that difficult exam, so don't be like this.</b>
+
+631
+00:40:24,472 --> 00:40:27,725
+<b>Hyeon- su, you can get through this.</b>
+
+632
+00:40:28,009 --> 00:40:33,210
+<b>Doctor, I don't care whether or not he can go back to being a cop.</b>
+
+633
+00:40:33,214 --> 00:40:34,505
+<b>Please</b>
+
+634
+00:40:35,183 --> 00:40:36,905
+<b>just save my son.</b>
+
+635
+00:40:37,685 --> 00:40:40,145
+<b>Yes, we'll do our very best.</b>
+
+636
+00:40:40,354 --> 00:40:41,775
+<b>See you.</b>
+
+637
+00:40:47,862 --> 00:40:50,115
+<b>What happened with Sin Mi- jin's liver index?</b>
+
+638
+00:40:50,231 --> 00:40:51,930
+<b>Her ALT is over 300.</b>
+
+639
+00:40:51,933 --> 00:40:53,230
+<b>ALT: A TRANSAMINASE ENZYME</b>
+
+640
+00:40:53,234 --> 00:40:55,400
+<b>Her bilirubin is over 10 as well.</b>
+
+641
+00:40:55,403 --> 00:40:57,100
+<b>HIGH LEVELS OF BILIRUBIN CAUSES JAUNDICE</b>
+
+642
+00:40:57,104 --> 00:41:00,125
+<b>The rejection reaction was low. Why did it suddenly spike?</b>
+
+643
+00:41:00,374 --> 00:41:02,695
+<b>I actually ran into her in the hallway.</b>
+
+644
+00:41:02,944 --> 00:41:05,335
+<b>Well, I'll tell you later.</b>
+
+645
+00:41:07,215 --> 00:41:08,835
+<b>I don't feel</b>
+
+646
+00:41:10,218 --> 00:41:12,750
+<b>so bad. I feel all right.</b>
+
+647
+00:41:12,753 --> 00:41:15,250
+<b>You're not all right. These numbers tell me that you need</b>
+
+648
+00:41:15,256 --> 00:41:18,545
+<b>to check in right away for tests and treatment. It's not looking good.</b>
+
+649
+00:41:19,927 --> 00:41:22,185
+<b>Have you been taking your medication?</b>
+
+650
+00:41:25,032 --> 00:41:27,225
+<b>It doesn't look like you've been taking it.</b>
+
+651
+00:41:33,774 --> 00:41:36,865
+<b>To me, it seems like you've been off your medication for a while.</b>
+
+652
+00:41:37,278 --> 00:41:39,405
+<b>Did something happen?</b>
+
+653
+00:41:40,548 --> 00:41:43,250
+<b>If you continue to skip your medication,</b>
+
+654
+00:41:43,251 --> 00:41:46,450
+<b>your liver will get all ruined, and you may need another transplant.</b>
+
+655
+00:41:46,454 --> 00:41:48,820
+<b>The liver won't function. Let's get you checked in.</b>
+
+656
+00:41:48,823 --> 00:41:50,145
+<b>No,</b>
+
+657
+00:41:50,391 --> 00:41:52,645
+<b>I don't want to be hospitalized.</b>
+
+658
+00:41:55,429 --> 00:41:57,915
+<b>I just want to die, Doctor.</b>
+
+659
+00:41:59,367 --> 00:42:01,855
+<b>What are you talking about?</b>
+
+660
+00:42:02,003 --> 00:42:04,830
+<b>I worked very hard on your surgery. Please don't say that to me.</b>
+
+661
+00:42:04,839 --> 00:42:07,070
+<b>Let's get you admitted and get a CT scan of your liver.</b>
+
+662
+00:42:07,074 --> 00:42:10,140
+<b>Then, we'll run a biopsy while doing your ultrasound.</b>
+
+663
+00:42:10,144 --> 00:42:12,335
+<b>We'll also treat transplant rejection.</b>
+
+664
+00:42:16,317 --> 00:42:19,150
+<b>He's a nine- year- old boy, who complained of pain in his right abdomen,</b>
+
+665
+00:42:19,153 --> 00:42:21,150
+<b>so I took a CT and it showed appendicitis.</b>
+
+666
+00:42:21,155 --> 00:42:24,375
+<b>He has a fever and a high level of CRP.</b>
+
+667
+00:42:24,692 --> 00:42:26,620
+<b>Since when did it start to hurt?</b>
+
+668
+00:42:26,627 --> 00:42:28,860
+<b>Last night.</b>
+
+669
+00:42:28,863 --> 00:42:32,855
+<b>Oh, no. Let me take a look. All right.</b>
+
+670
+00:42:34,535 --> 00:42:36,300
+<b>I'll talk to the guardian.</b>
+
+671
+00:42:36,304 --> 00:42:38,670
+<b>Dr. Jang, please call Anesthesiology now.</b>
+
+672
+00:42:38,673 --> 00:42:40,040
+<b>Okay.</b>
+
+673
+00:42:40,041 --> 00:42:41,940
+<b>- Hello, Professor Ahn. - Hi.</b>
+
+674
+00:42:41,943 --> 00:42:43,365
+<b>Professor Ahn.</b>
+
+675
+00:42:43,611 --> 00:42:45,735
+<b>Can we watch a movie together next time?</b>
+
+676
+00:42:46,614 --> 00:42:48,905
+<b>Sure. Let's watch one together when we have time.</b>
+
+677
+00:42:49,050 --> 00:42:50,705
+<b>Bye.</b>
+
+678
+00:42:53,788 --> 00:42:55,405
+<b>What do you mean, "next time"?</b>
+
+679
+00:42:55,590 --> 00:42:57,120
+<b>Did you two meet in private?</b>
+
+680
+00:42:57,124 --> 00:43:00,715
+<b>Yes. I had dinner with Professor Ahn last weekend.</b>
+
+681
+00:43:00,861 --> 00:43:02,885
+<b>Just the two of us? Outside the hospital?</b>
+
+682
+00:43:03,030 --> 00:43:05,900
+<b>Yes. Just the two of us, outside the hospital.</b>
+
+683
+00:43:05,900 --> 00:43:07,725
+<b>In our own clothes, not in scrubs.</b>
+
+684
+00:43:08,169 --> 00:43:11,155
+<b>Did Professor Ahn ask you to have dinner with him?</b>
+
+685
+00:43:11,572 --> 00:43:13,225
+<b>Well, I asked him.</b>
+
+686
+00:43:13,374 --> 00:43:14,570
+<b>I asked him to buy me dinner.</b>
+
+687
+00:43:14,575 --> 00:43:18,540
+<b>My gosh. Professor Ahn is known to buy a lot of people meals.</b>
+
+688
+00:43:18,546 --> 00:43:21,835
+<b>He has a get- together with the nurses often, too.</b>
+
+689
+00:43:21,882 --> 00:43:23,850
+<b>- I thought it was different. - It was just us.</b>
+
+690
+00:43:23,851 --> 00:43:26,020
+<b>It doesn't matter if it was just with you or 20 people.</b>
+
+691
+00:43:26,020 --> 00:43:28,505
+<b>When people ask him to buy them a meal, he always does.</b>
+
+692
+00:43:29,056 --> 00:43:31,890
+<b>Dr. Bae. You know what?</b>
+
+693
+00:43:31,892 --> 00:43:35,690
+<b>I even watched a movie with Professor Ahn. I'm serious.</b>
+
+694
+00:43:35,696 --> 00:43:38,615
+<b>Goodness. You got me there!</b>
+
+695
+00:43:48,209 --> 00:43:51,035
+<b>YULJE MEDICAL CENTER</b>
+
+696
+00:43:52,446 --> 00:43:54,665
+<i><b>I miss you, too.</i></b>
+
+697
+00:43:55,349 --> 00:43:58,835
+<i><b>I have a photo of you, so I can look at your photo.</i></b>
+
+698
+00:43:59,086 --> 00:44:01,180
+<i><b>I don't have a photo of you. Send me one.</i></b>
+
+699
+00:44:01,188 --> 00:44:03,075
+<i><b>Send me the best photo of you.</i></b>
+
+700
+00:44:09,664 --> 00:44:11,885
+<i><b>I miss you, too.</i></b>
+
+701
+00:44:12,566 --> 00:44:16,055
+<i><b>I have a photo of you, so I can look at your photo.</i></b>
+
+702
+00:44:16,303 --> 00:44:18,400
+<i><b>I don't have a photo of you. Send me one.</i></b>
+
+703
+00:44:18,406 --> 00:44:20,295
+<i><b>Send me the best photo of you.</i></b>
+
+704
+00:44:35,456 --> 00:44:37,845
+<b>My goodness.</b>
+
+705
+00:44:45,032 --> 00:44:46,425
+<b>Who is it?</b>
+
+706
+00:44:46,600 --> 00:44:48,260
+<b>Who is it that you're so crazy about?</b>
+
+707
+00:44:48,269 --> 00:44:50,425
+<b>It's my mom.</b>
+
+708
+00:44:51,639 --> 00:44:53,300
+<b>Let's go. I'm hungry.</b>
+
+709
+00:44:53,307 --> 00:44:55,300
+<b>Give me a second. Let me change first.</b>
+
+710
+00:44:55,309 --> 00:44:56,765
+<b>Wait.</b>
+
+711
+00:45:08,189 --> 00:45:11,320
+<b>Jeong- won, you told the gang to meet us in the basement, right?</b>
+
+712
+00:45:11,325 --> 00:45:13,160
+<b>We're only taking my car.</b>
+
+713
+00:45:13,160 --> 00:45:14,220
+<b>You do it.</b>
+
+714
+00:45:14,228 --> 00:45:16,155
+<b>Why do I always have to do that?</b>
+
+715
+00:45:17,131 --> 00:45:18,955
+<b>Because you did it already.</b>
+
+716
+00:45:21,368 --> 00:45:23,625
+<b>Let's go. They said they'd meet us downstairs.</b>
+
+717
+00:45:24,105 --> 00:45:25,395
+<b>Okay.</b>
+
+718
+00:45:38,919 --> 00:45:40,445
+<b>What are you doing?</b>
+
+719
+00:45:40,554 --> 00:45:43,320
+<b>Do you think we're in <i>Reply 1988</i>? That's such an old trick.</b>
+
+720
+00:45:43,324 --> 00:45:45,390
+<b>What about you? Are you in <i>Seoul Claypot</i>?</b>
+
+721
+00:45:45,392 --> 00:45:46,815
+<b>Jeez.</b>
+
+722
+00:45:47,561 --> 00:45:49,090
+<b>Should I buy you Bluetooth earphones?</b>
+
+723
+00:45:49,096 --> 00:45:51,860
+<b>These are more comfortable. I just need to plug them in.</b>
+
+724
+00:45:51,866 --> 00:45:53,560
+<b>I don't have to use Bluetooth.</b>
+
+725
+00:45:53,567 --> 00:45:56,595
+<b>What? You just need to plug them in to listen to songs? How- -</b>
+
+726
+00:45:57,738 --> 00:45:59,970
+<b>Hey, give them to me. Let me try them.</b>
+
+727
+00:45:59,974 --> 00:46:01,770
+<b>What? Did that prick get a new car?</b>
+
+728
+00:46:01,776 --> 00:46:03,110
+<b>Really? Where?</b>
+
+729
+00:46:03,110 --> 00:46:05,465
+<b>He really did. When did he get a new car?</b>
+
+730
+00:46:10,084 --> 00:46:12,505
+<b>Hey, hop in.</b>
+
+731
+00:46:12,987 --> 00:46:15,275
+<b>Oh, my. Showing off your car now?</b>
+
+732
+00:46:15,756 --> 00:46:18,520
+<b>Hey, he's just too old to show off things, right?</b>
+
+733
+00:46:18,526 --> 00:46:20,560
+<b>- Take the passenger seat, Song- hwa. - Thanks.</b>
+
+734
+00:46:20,561 --> 00:46:23,230
+<b>- I'm starving. Did you make a reservation? - Of course.</b>
+
+735
+00:46:23,230 --> 00:46:26,055
+<b>- Three orders of spicy pork and duck? - Yes. Let's go.</b>
+
+736
+00:46:35,476 --> 00:46:36,710
+<b>You want to listen to music?</b>
+
+737
+00:46:36,710 --> 00:46:39,410
+<b>Yes. We should listen to the song we'll practice this week.</b>
+
+738
+00:46:39,413 --> 00:46:42,550
+<b>This car smells nice. I think it's women's perfume.</b>
+
+739
+00:46:42,550 --> 00:46:43,980
+<b>He is dating someone.</b>
+
+740
+00:46:43,984 --> 00:46:45,610
+<b>I'm 100 percent it's hers.</b>
+
+741
+00:46:45,619 --> 00:46:47,350
+<b>He's been glued to his phone.</b>
+
+742
+00:46:47,354 --> 00:46:49,050
+<b>No, I'm not.</b>
+
+743
+00:46:49,056 --> 00:46:51,790
+<b>The fragrance of the perfume</b>
+
+744
+00:46:51,792 --> 00:46:56,715
+<b>and the scent of nature are mixed with a ratio of 5.5 and 4.5.</b>
+
+745
+00:46:56,864 --> 00:46:58,430
+<b>I don't think she's from the city.</b>
+
+746
+00:46:58,432 --> 00:46:59,800
+<b>She either works outside</b>
+
+747
+00:46:59,800 --> 00:47:01,630
+<b>or sweats a lot on the job.</b>
+
+748
+00:47:01,635 --> 00:47:03,430
+<b>- Really? - She either lives</b>
+
+749
+00:47:03,437 --> 00:47:04,670
+<b>in Gangwon Province or farms.</b>
+
+750
+00:47:04,672 --> 00:47:06,665
+<b>Do you have a dog's nose?</b>
+
+751
+00:47:07,141 --> 00:47:10,040
+<b>I was just making stuff up. Did you see his face?</b>
+
+752
+00:47:10,044 --> 00:47:12,340
+<b>One of these must be true.</b>
+
+753
+00:47:12,346 --> 00:47:14,280
+<b>Song- hwa, should we listen to music?</b>
+
+754
+00:47:14,281 --> 00:47:16,850
+<b>Yes, I want to listen to music,</b>
+
+755
+00:47:16,851 --> 00:47:19,650
+<b>but the Bluetooth isn't working. Have you tried it before?</b>
+
+756
+00:47:19,653 --> 00:47:21,620
+<b>- Hey, forget about the music. - Yes, I answer phone calls</b>
+
+757
+00:47:21,622 --> 00:47:23,490
+<b>- and listen to music! - Jun- wan, who is she?</b>
+
+758
+00:47:23,490 --> 00:47:26,845
+<b>- Was it a blind date? An arranged meeting? - No, I didn't go on a blind date.</b>
+
+759
+00:47:29,263 --> 00:47:30,955
+<b>It's not working.</b>
+
+760
+00:47:31,031 --> 00:47:33,730
+<b>Jun- wan, it's not working because it's connected to your phone.</b>
+
+761
+00:47:33,734 --> 00:47:35,755
+<b>Jun- wan, do I know her?</b>
+
+762
+00:47:36,704 --> 00:47:38,930
+<b>Hey, do we know this lady?</b>
+
+763
+00:47:38,939 --> 00:47:42,170
+<b>My friend, does she work at the hospital or did we know her from school?</b>
+
+764
+00:47:42,176 --> 00:47:43,670
+<b>Song- hwa, lower the volume.</b>
+
+765
+00:47:43,677 --> 00:47:46,380
+<b>No, don't. Can you increase the volume? Please. I'm begging you.</b>
+
+766
+00:47:46,380 --> 00:47:49,205
+<b>My gosh. Why isn't this connecting?</b>
+
+767
+00:47:50,150 --> 00:47:51,110
+<b>What?</b>
+
+768
+00:47:51,118 --> 00:47:52,010
+<b>MY LOVELY <i>BIDULGI</i></b>
+
+769
+00:47:52,019 --> 00:47:53,520
+<b>Jun- wan.</b>
+
+770
+00:47:53,520 --> 00:47:55,905
+<b>Someone saved as <i>Bidulgi</i> is calling you.</b>
+
+771
+00:47:58,659 --> 00:48:00,560
+<b>Hey, eyes on the road. Will you kill us all?</b>
+
+772
+00:48:00,561 --> 00:48:03,530
+<b>Baby... I mean Jeong- won, can you take out my phone in the bag?</b>
+
+773
+00:48:03,530 --> 00:48:05,190
+<b>Take it out and decline the call.</b>
+
+774
+00:48:05,199 --> 00:48:07,300
+<b>I see. Your phone is in your bag, sweetie?</b>
+
+775
+00:48:07,301 --> 00:48:09,630
+<b>- Sure, sweetie. - Jeong- won, quickly. Hurry.</b>
+
+776
+00:48:09,637 --> 00:48:11,700
+<b>No, forget it. Jeong- won, leave it.</b>
+
+777
+00:48:11,705 --> 00:48:12,640
+<b>Hello.</b>
+
+778
+00:48:12,640 --> 00:48:14,640
+<b>- Your cell phone. - Hello. Hi.</b>
+
+779
+00:48:14,642 --> 00:48:16,170
+<b>Hey, we're here.</b>
+
+780
+00:48:16,176 --> 00:48:18,840
+<b>- There are a lot of empty parking spots. - Yes.</b>
+
+781
+00:48:18,846 --> 00:48:21,135
+<b>Where's your phone, sweetie?</b>
+
+782
+00:48:21,215 --> 00:48:22,310
+<b>Mom?</b>
+
+783
+00:48:22,316 --> 00:48:25,010
+<b>I'm out with my friends to have dinner.</b>
+
+784
+00:48:25,019 --> 00:48:26,380
+<i><b>Jun- wan has a girlfriend.</i></b>
+
+785
+00:48:26,387 --> 00:48:28,805
+<i><b>Her name is </i>Bigulgi,<i> as in "dove." </i></b>
+
+786
+00:48:29,023 --> 00:48:32,645
+<i><b>- Bi is a unique last name, right? - Bi as in "Rain"?</i></b>
+
+787
+00:48:33,060 --> 00:48:34,020
+<b>Okay.</b>
+
+788
+00:48:34,028 --> 00:48:35,515
+<b>- I found it. - Give me that.</b>
+
+789
+00:48:37,197 --> 00:48:38,785
+<b>Hello?</b>
+
+790
+00:48:38,866 --> 00:48:42,025
+<b>I'm Kim Jun- wan's friend, Lee Ik- jun.</b>
+
+791
+00:48:42,336 --> 00:48:44,670
+<b>He can't answer the phone right now.</b>
+
+792
+00:48:44,672 --> 00:48:46,740
+<b>If I may, please tell me your name.</b>
+
+793
+00:48:46,740 --> 00:48:48,840
+<b>I'll make sure I tell him- -</b>
+
+794
+00:48:48,842 --> 00:48:52,240
+<b>I would like to do that, but he took the phone.</b>
+
+795
+00:48:52,246 --> 00:48:53,505
+<b>Yes.</b>
+
+796
+00:48:53,681 --> 00:48:55,010
+<b>Okay. Yes.</b>
+
+797
+00:48:55,015 --> 00:48:57,280
+<b>I'm starving. They serve <i>nurungji,</i> too, right?</b>
+
+798
+00:48:57,284 --> 00:48:59,520
+<b>Yes. They serve <i>nurungji</i> and perilla seed <i>sujuebi</i>.</b>
+
+799
+00:48:59,520 --> 00:49:00,950
+<b>Jun- wan, we'll be inside.</b>
+
+800
+00:49:00,955 --> 00:49:03,190
+<b>It's already getting chilly.</b>
+
+801
+00:49:03,190 --> 00:49:05,090
+<b>It's pretty chilly at night.</b>
+
+802
+00:49:05,092 --> 00:49:06,190
+<b>It's autumn now.</b>
+
+803
+00:49:06,193 --> 00:49:08,460
+<b>This chilly weather is making me miss my sister.</b>
+
+804
+00:49:08,462 --> 00:49:10,885
+<b>That never happened to me.</b>
+
+805
+00:49:12,266 --> 00:49:15,655
+<b>Even so, I think it's better that you tell her.</b>
+
+806
+00:49:16,437 --> 00:49:17,855
+<b>Really?</b>
+
+807
+00:49:19,640 --> 00:49:20,740
+<b>I really can't decide.</b>
+
+808
+00:49:20,741 --> 00:49:24,035
+<b>Of course, you should tell your mom. Why are you even thinking about it?</b>
+
+809
+00:49:24,111 --> 00:49:25,940
+<b>Don't make her feel like a fool.</b>
+
+810
+00:49:25,946 --> 00:49:27,810
+<b>You should tell her everything that everyone knows,</b>
+
+811
+00:49:27,815 --> 00:49:30,310
+<b>so she divorces your dad right away and lives a better life.</b>
+
+812
+00:49:30,317 --> 00:49:32,280
+<b>He's worried because of her health.</b>
+
+813
+00:49:32,286 --> 00:49:34,420
+<b>What if he tells her and she collapses again</b>
+
+814
+00:49:34,421 --> 00:49:36,205
+<b>from the shock? What then?</b>
+
+815
+00:49:36,657 --> 00:49:38,215
+<b>But at the same time,</b>
+
+816
+00:49:38,392 --> 00:49:40,715
+<b>I think she should know about it.</b>
+
+817
+00:49:43,664 --> 00:49:47,925
+<b>Are you and Song- hwa possessed by ghosts who'd starved for years?</b>
+
+818
+00:49:48,102 --> 00:49:49,500
+<b>I have three older brothers.</b>
+
+819
+00:49:49,503 --> 00:49:51,525
+<b>I'm really possessed by a ghost.</b>
+
+820
+00:49:51,839 --> 00:49:53,695
+<b>- Jeong- won, water, please. - Okay.</b>
+
+821
+00:49:54,575 --> 00:49:56,025
+<b>Ma'am.</b>
+
+822
+00:49:57,745 --> 00:50:01,065
+<b>I should tell her, so it gets rid of the slightest affection she has left.</b>
+
+823
+00:50:01,415 --> 00:50:03,935
+<b>Well, I don't think there's any ounce of affection left.</b>
+
+824
+00:50:04,084 --> 00:50:06,650
+<b>But then, I thought it would be better to tell her</b>
+
+825
+00:50:06,653 --> 00:50:08,580
+<b>to get a divorce since that lady is pregnant,</b>
+
+826
+00:50:08,589 --> 00:50:10,850
+<b>so that Mom could live freely without any stress.</b>
+
+827
+00:50:10,858 --> 00:50:12,915
+<b>But then again,</b>
+
+828
+00:50:13,961 --> 00:50:15,190
+<b>they are already strangers.</b>
+
+829
+00:50:15,195 --> 00:50:18,115
+<b>And what if her health gets worse because of the shock?</b>
+
+830
+00:50:18,165 --> 00:50:19,460
+<b>I really don't want that.</b>
+
+831
+00:50:19,466 --> 00:50:21,360
+<b>But wouldn't it better to tell her?</b>
+
+832
+00:50:21,368 --> 00:50:22,755
+<b>I agree.</b>
+
+833
+00:50:23,404 --> 00:50:24,695
+<b>What about you?</b>
+
+834
+00:50:25,839 --> 00:50:27,295
+<b>Tell her or don't?</b>
+
+835
+00:50:27,541 --> 00:50:29,395
+<b>You should tell her.</b>
+
+836
+00:50:31,178 --> 00:50:32,170
+<b>What should I do?</b>
+
+837
+00:50:32,179 --> 00:50:34,680
+<b>- Just tell her. - Tell her.</b>
+
+838
+00:50:34,681 --> 00:50:37,075
+<b>Hey, Song- hwa. What do you think?</b>
+
+839
+00:50:38,385 --> 00:50:39,945
+<b>Well,</b>
+
+840
+00:50:40,187 --> 00:50:41,720
+<b>I agree. I think you should tell her.</b>
+
+841
+00:50:41,722 --> 00:50:43,275
+<b>Really?</b>
+
+842
+00:50:43,524 --> 00:50:46,120
+<b>Yes. I think she should know.</b>
+
+843
+00:50:46,126 --> 00:50:48,115
+<b>Let her down gently.</b>
+
+844
+00:50:48,195 --> 00:50:50,660
+<b>Make sure to comfort her before and after telling the news.</b>
+
+845
+00:50:50,664 --> 00:50:52,290
+<b>Okay. I'll tell her.</b>
+
+846
+00:50:52,299 --> 00:50:55,400
+<b>We've been telling you that for ten minutes. You never take our advice.</b>
+
+847
+00:50:55,402 --> 00:50:58,700
+<b>If you are going to do this, you should just ask her for the advice.</b>
+
+848
+00:50:58,705 --> 00:51:00,240
+<b>Go drink some tea separately.</b>
+
+849
+00:51:00,240 --> 00:51:02,000
+<b>We're just fillers here.</b>
+
+850
+00:51:02,009 --> 00:51:03,840
+<b>The owner personally dug up the arrowroot,</b>
+
+851
+00:51:03,844 --> 00:51:06,510
+<b>and it's on us, too.</b>
+
+852
+00:51:06,513 --> 00:51:08,605
+<b>Does anyone want it?</b>
+
+853
+00:51:09,383 --> 00:51:11,210
+<b>Okay. Please wait.</b>
+
+854
+00:51:11,218 --> 00:51:12,310
+<b>I'll bring it over.</b>
+
+855
+00:51:12,319 --> 00:51:14,150
+<b>- Thank you. - Thank you.</b>
+
+856
+00:51:14,154 --> 00:51:17,475
+<b>YULJE MEDICAL CENTER</b>
+
+857
+00:51:18,759 --> 00:51:20,685
+<b>Hey, you did well.</b>
+
+858
+00:51:21,361 --> 00:51:23,160
+<b>Your mother is okay, right?</b>
+
+859
+00:51:23,163 --> 00:51:26,655
+<b>Yes, she took the news better than I expected.</b>
+
+860
+00:51:27,201 --> 00:51:28,660
+<b>At first, she was really shocked.</b>
+
+861
+00:51:28,669 --> 00:51:31,795
+<b>She didn't say a word for ten minutes, so I was worried.</b>
+
+862
+00:51:32,172 --> 00:51:35,025
+<b>But I comforted her afterward. She's divorcing him.</b>
+
+863
+00:51:35,209 --> 00:51:38,035
+<b>She said she wanted to emigrate because she's humiliated.</b>
+
+864
+00:51:42,082 --> 00:51:45,675
+<b>It's all right. You guys managed to get through such an unpleasant incident.</b>
+
+865
+00:51:46,220 --> 00:51:48,845
+<b>You weren't in your office, so I knew you'd be here.</b>
+
+866
+00:51:51,258 --> 00:51:53,860
+<b>You should have at least dried your hair. Goodness.</b>
+
+867
+00:51:53,861 --> 00:51:56,685
+<b>I guess you couldn't wait to tell Song- hwa.</b>
+
+868
+00:51:58,398 --> 00:52:01,625
+<b>You haven't seen him yet, right? But I guess he told you right away.</b>
+
+869
+00:52:01,768 --> 00:52:03,295
+<b>What are you talking about?</b>
+
+870
+00:52:03,370 --> 00:52:06,995
+<b>We were just talking about how he told her about the pregnancy.</b>
+
+871
+00:52:07,141 --> 00:52:09,065
+<b>Why? Is something going on?</b>
+
+872
+00:52:09,743 --> 00:52:12,980
+<b>Seok- hyeong's father got admitted to the hospital last night.</b>
+
+873
+00:52:12,980 --> 00:52:15,405
+<b>At our hospital. He's in VIP Room Three.</b>
+
+874
+00:52:15,582 --> 00:52:17,110
+<b>Is he sick?</b>
+
+875
+00:52:17,117 --> 00:52:19,305
+<b>No, he's faking it.</b>
+
+876
+00:52:20,954 --> 00:52:24,390
+<b>He kept getting summoned by the court, so I think he got admitted here.</b>
+
+877
+00:52:24,391 --> 00:52:26,260
+<b>He didn't request me as his physician.</b>
+
+878
+00:52:26,260 --> 00:52:29,545
+<b>I think his secretary directly called the hospital director.</b>
+
+879
+00:52:32,232 --> 00:52:34,555
+<b>Hey. Visit him later.</b>
+
+880
+00:52:35,002 --> 00:52:36,485
+<b>I'll go with you later.</b>
+
+881
+00:52:36,637 --> 00:52:38,425
+<b>It's time to meet the outpatients.</b>
+
+882
+00:52:42,609 --> 00:52:46,265
+<b>Jun- wan. Do not treat Chairman Yang.</b>
+
+883
+00:52:47,147 --> 00:52:48,405
+<b>Okay?</b>
+
+884
+00:52:49,416 --> 00:52:50,875
+<b>Yes.</b>
+
+885
+00:52:54,788 --> 00:52:56,550
+<b>She took the morning medication</b>
+
+886
+00:52:56,557 --> 00:52:58,790
+<b>because Nurse Song literally begged her to take it.</b>
+
+887
+00:52:58,792 --> 00:53:00,520
+<b>But I don't know if she'll take it tonight.</b>
+
+888
+00:53:00,527 --> 00:53:02,690
+<b>Judging from this morning, I doubt that she will.</b>
+
+889
+00:53:02,696 --> 00:53:05,490
+<b>I get that she hates her husband, but if her health deteriorates,</b>
+
+890
+00:53:05,499 --> 00:53:06,855
+<b>it's her loss.</b>
+
+891
+00:53:07,100 --> 00:53:08,760
+<b>I can somewhat understand her.</b>
+
+892
+00:53:08,769 --> 00:53:11,630
+<b>It doesn't matter if her husband donated his liver. He cheated on her.</b>
+
+893
+00:53:11,638 --> 00:53:14,425
+<b>Would you want to live with the liver of a cheating husband?</b>
+
+894
+00:53:14,575 --> 00:53:17,470
+<b>She probably hates her husband and her new liver. I'd hate everything.</b>
+
+895
+00:53:17,477 --> 00:53:20,405
+<b>Even so, she has to take her medication.</b>
+
+896
+00:53:20,547 --> 00:53:22,010
+<b>Did you sleep well?</b>
+
+897
+00:53:22,015 --> 00:53:24,580
+<b>Yes, I slept well. It's been a while since I had good sleep.</b>
+
+898
+00:53:24,585 --> 00:53:26,720
+<b>I'm glad to hear that. You must exercise a lot.</b>
+
+899
+00:53:26,720 --> 00:53:28,680
+<b>Try to walk the hallways whenever you can.</b>
+
+900
+00:53:28,689 --> 00:53:30,920
+<b>Yes. I went back and forth ten times yesterday.</b>
+
+901
+00:53:30,924 --> 00:53:33,915
+<b>I think I can even participate in the Olympics.</b>
+
+902
+00:53:33,994 --> 00:53:37,685
+<b>Doctor, are you married?</b>
+
+903
+00:53:37,864 --> 00:53:39,115
+<b>Pardon?</b>
+
+904
+00:53:39,166 --> 00:53:41,485
+<b>Why do you ask? Are you going to set him up?</b>
+
+905
+00:53:41,702 --> 00:53:43,530
+<b>Yes, I have a younger sister.</b>
+
+906
+00:53:43,537 --> 00:53:45,470
+<b>I want to set you up with my sister.</b>
+
+907
+00:53:45,472 --> 00:53:47,925
+<b>My goodness. Oh, my.</b>
+
+908
+00:53:48,008 --> 00:53:50,335
+<b>I'm married. And I have a son, too.</b>
+
+909
+00:53:50,377 --> 00:53:54,340
+<b>I should've known. Women wouldn't have let a fine man like you alone.</b>
+
+910
+00:53:54,348 --> 00:53:55,980
+<b>No, I married late.</b>
+
+911
+00:53:55,983 --> 00:53:57,850
+<b>I wonder what lucky woman married you.</b>
+
+912
+00:53:57,851 --> 00:53:59,575
+<b>It's a pity you are married.</b>
+
+913
+00:53:59,886 --> 00:54:02,805
+<b>Seriously, you're my type.</b>
+
+914
+00:54:03,357 --> 00:54:04,645
+<b>My gosh.</b>
+
+915
+00:54:05,058 --> 00:54:08,090
+<b>Goodness, you're flattering me. Your husband is here.</b>
+
+916
+00:54:08,095 --> 00:54:11,315
+<b>I mean, look at you, Doctor. You're handsome.</b>
+
+917
+00:54:11,398 --> 00:54:13,460
+<b>And I bet you got good grades.</b>
+
+918
+00:54:13,467 --> 00:54:16,285
+<b>You're so amiable and great at your job.</b>
+
+919
+00:54:16,570 --> 00:54:19,200
+<b>You're totally my type. My gosh.</b>
+
+920
+00:54:19,206 --> 00:54:21,840
+<b>But my husband is a slug.</b>
+
+921
+00:54:21,842 --> 00:54:24,870
+<b>But he has such a likable face and a good build.</b>
+
+922
+00:54:24,878 --> 00:54:27,040
+<b>He does, doesn't he?</b>
+
+923
+00:54:27,047 --> 00:54:28,240
+<b>He runs a jewelry shop.</b>
+
+924
+00:54:28,248 --> 00:54:30,880
+<b>He has a shop in Ssangmun- dong. It's called Phoenix Shop.</b>
+
+925
+00:54:30,884 --> 00:54:32,305
+<b>I see.</b>
+
+926
+00:54:35,789 --> 00:54:37,515
+<b>I picked it up on my way here.</b>
+
+927
+00:54:38,959 --> 00:54:40,860
+<b>My gosh, no. I should get going.</b>
+
+928
+00:54:40,861 --> 00:54:43,660
+<b>Doctor, it's coming from the bottom of my heart.</b>
+
+929
+00:54:43,664 --> 00:54:46,930
+<b>I want to give you everything I have. I am so grateful for your help.</b>
+
+930
+00:54:46,933 --> 00:54:48,760
+<b>My son won this at a contest.</b>
+
+931
+00:54:48,769 --> 00:54:50,900
+<b>No, I can't accept this. If I do, I'll be in trouble.</b>
+
+932
+00:54:50,904 --> 00:54:52,930
+<b>- I'm serious. - Doctor, it's from my heart.</b>
+
+933
+00:54:52,939 --> 00:54:55,440
+<b>You saved my wife. I am so thankful for it.</b>
+
+934
+00:54:55,442 --> 00:54:57,140
+<b>- Please accept this. - Wait.</b>
+
+935
+00:54:57,144 --> 00:54:58,440
+<b>I'll be back later.</b>
+
+936
+00:54:58,445 --> 00:55:00,280
+<b>- Bye. - Doctor.</b>
+
+937
+00:55:00,280 --> 00:55:01,880
+<b>- What? - Rest up, ma'am.</b>
+
+938
+00:55:01,882 --> 00:55:03,810
+<b>I guess doctors can't accept gifts these days.</b>
+
+939
+00:55:03,817 --> 00:55:06,110
+<b>How is the baby? The baby is active, right?</b>
+
+940
+00:55:06,119 --> 00:55:09,280
+<b>- Yes. - It's been 24 weeks now.</b>
+
+941
+00:55:09,289 --> 00:55:13,620
+<b>All right. The black part on the scan is the amniotic fluid.</b>
+
+942
+00:55:13,627 --> 00:55:15,815
+<b>When you look at the scan...</b>
+
+943
+00:55:19,433 --> 00:55:21,655
+<b>- I'm sorry. - It's okay.</b>
+
+944
+00:55:24,971 --> 00:55:27,025
+<b>Hello. What is this about?</b>
+
+945
+00:55:28,575 --> 00:55:31,310
+<i><b>I had a bad feeling about it in case- - </i></b>
+
+946
+00:55:31,311 --> 00:55:34,105
+<b>Okay. I got it.</b>
+
+947
+00:55:39,953 --> 00:55:41,445
+<b>I'm sorry.</b>
+
+948
+00:56:05,512 --> 00:56:08,465
+<b>I guess they don't use that anymore these days.</b>
+
+949
+00:56:18,325 --> 00:56:20,215
+<b>Hello, Ms. Sin.</b>
+
+950
+00:56:20,794 --> 00:56:22,560
+<b>Hello.</b>
+
+951
+00:56:22,562 --> 00:56:23,890
+<b>Did you eat?</b>
+
+952
+00:56:23,897 --> 00:56:25,560
+<b>She ate very little.</b>
+
+953
+00:56:25,565 --> 00:56:26,960
+<b>Why?</b>
+
+954
+00:56:26,967 --> 00:56:28,730
+<b>You should eat a lot.</b>
+
+955
+00:56:28,735 --> 00:56:30,700
+<b>Hospital meals are expensive.</b>
+
+956
+00:56:30,704 --> 00:56:33,725
+<b>You should eat a lot. That's a waste of money if you don't.</b>
+
+957
+00:56:33,974 --> 00:56:35,395
+<b>Doctor,</b>
+
+958
+00:56:36,376 --> 00:56:38,310
+<b>I'm sure you heard about my situation.</b>
+
+959
+00:56:38,311 --> 00:56:41,005
+<b>That my husband cheated on me.</b>
+
+960
+00:56:42,849 --> 00:56:44,175
+<b>Yes.</b>
+
+961
+00:56:45,752 --> 00:56:48,680
+<b>Because he's having an affair with another woman,</b>
+
+962
+00:56:48,688 --> 00:56:52,275
+<b>he felt guilty, so that's why he gave me a piece of his liver.</b>
+
+963
+00:56:52,392 --> 00:56:54,715
+<b>To feel better about himself.</b>
+
+964
+00:56:55,095 --> 00:56:57,085
+<b>I'm sure that's not true.</b>
+
+965
+00:56:57,164 --> 00:57:01,325
+<b>Your husband took very good care of you when you got the transplant surgery.</b>
+
+966
+00:57:01,368 --> 00:57:05,000
+<b>He held my hand and cried a lot at night.</b>
+
+967
+00:57:05,005 --> 00:57:08,395
+<b>You're very naive.</b>
+
+968
+00:57:09,743 --> 00:57:14,235
+<b>It sounds like you lived a good life without undergoing any hardships.</b>
+
+969
+00:57:15,382 --> 00:57:17,175
+<b>How do you feel today?</b>
+
+970
+00:57:18,185 --> 00:57:21,050
+<b>Luckily, the CT scan shows the biliary duct isn't stretched.</b>
+
+971
+00:57:21,054 --> 00:57:23,450
+<b>You didn't take any immunosuppressants,</b>
+
+972
+00:57:23,457 --> 00:57:25,920
+<b>so your body had acute transplantation rejection.</b>
+
+973
+00:57:25,926 --> 00:57:27,890
+<b>We'll treat it with a high dose of steroids.</b>
+
+974
+00:57:27,894 --> 00:57:30,290
+<b>And once you start taking immunosuppressants,</b>
+
+975
+00:57:30,297 --> 00:57:32,785
+<b>you'll recover, so don't worry.</b>
+
+976
+00:57:33,467 --> 00:57:35,625
+<b>I'm not worried, Doctor.</b>
+
+977
+00:57:38,104 --> 00:57:39,795
+<b>I don't want</b>
+
+978
+00:57:41,608 --> 00:57:43,635
+<b>to live with his liver.</b>
+
+979
+00:57:45,579 --> 00:57:47,305
+<b>Goodness.</b>
+
+980
+00:57:48,782 --> 00:57:53,150
+<b>I had no idea that my husband was cheating on me with a younger woman.</b>
+
+981
+00:57:53,153 --> 00:57:55,545
+<b>I even made a deep bow to him.</b>
+
+982
+00:57:56,857 --> 00:57:58,715
+<b>Gosh.</b>
+
+983
+00:57:59,626 --> 00:58:02,060
+<b>Doctor, he gave me a piece of his liver,</b>
+
+984
+00:58:02,062 --> 00:58:05,655
+<b>so he wouldn't feel guilty about the affair.</b>
+
+985
+00:58:05,799 --> 00:58:07,900
+<b>He was just sorry.</b>
+
+986
+00:58:07,901 --> 00:58:12,025
+<b>I'm sure that's not true. Your husband can't be that evil.</b>
+
+987
+00:58:14,608 --> 00:58:18,365
+<b>Doctor, everything in this world seems beautiful and kind to you, right?</b>
+
+988
+00:58:20,447 --> 00:58:24,480
+<b>People who were raised by rich parents and had a good education</b>
+
+989
+00:58:24,484 --> 00:58:26,705
+<b>will never understand me.</b>
+
+990
+00:58:27,087 --> 00:58:28,780
+<b>I don't need you to understand me.</b>
+
+991
+00:58:28,788 --> 00:58:31,075
+<b>And what's the point if you do?</b>
+
+992
+00:58:32,459 --> 00:58:35,415
+<b>- Help me go to the restroom. - Okay.</b>
+
+993
+00:58:46,439 --> 00:58:48,195
+<b>WOMEN'S TOILET</b>
+
+994
+00:58:54,848 --> 00:58:57,180
+<b>Excuse me.</b>
+
+995
+00:58:57,183 --> 00:58:58,775
+<b>Yes?</b>
+
+996
+00:59:06,493 --> 00:59:08,745
+<b>- This is good. - Yes.</b>
+
+997
+00:59:14,501 --> 00:59:15,960
+<b>Are there reporters outside?</b>
+
+998
+00:59:15,969 --> 00:59:17,395
+<b>No.</b>
+
+999
+00:59:19,906 --> 00:59:21,165
+<b>Mr. Jeong,</b>
+
+1000
+00:59:21,908 --> 00:59:25,810
+<b>if there's a nurse outside, ask her to give me an IV drip or something.</b>
+
+1001
+00:59:25,812 --> 00:59:27,740
+<b>It can be a vitamin IV drip or just saline.</b>
+
+1002
+00:59:27,747 --> 00:59:30,235
+<b>People could barge in here out of the blue.</b>
+
+1003
+00:59:31,685 --> 00:59:36,745
+<b>This person here told me not to let anyone inside.</b>
+
+1004
+00:59:36,990 --> 00:59:39,250
+<b>I even got permission from the hospital director- -</b>
+
+1005
+00:59:39,259 --> 00:59:40,785
+<b>Hey.</b>
+
+1006
+00:59:45,765 --> 00:59:47,860
+<b>So this is how he addresses me.</b>
+
+1007
+00:59:47,867 --> 00:59:49,625
+<b>My name</b>
+
+1008
+00:59:50,337 --> 00:59:51,925
+<b>is this person.</b>
+
+1009
+00:59:53,807 --> 00:59:56,525
+<b>You really can't address me properly?</b>
+
+1010
+00:59:56,876 --> 01:00:00,565
+<b>Why don't you call me by my name, Tae- yeon?</b>
+
+1011
+01:00:01,181 --> 01:00:02,835
+<b>I'll be outside.</b>
+
+1012
+01:00:02,849 --> 01:00:05,110
+<b>And I'll tell the nurse that you want an IV drip.</b>
+
+1013
+01:00:05,118 --> 01:00:07,650
+<b>- Okay. - Unbelievable.</b>
+
+1014
+01:00:07,654 --> 01:00:10,275
+<b>Is he looking down on me?</b>
+
+1015
+01:00:10,924 --> 01:00:13,315
+<b>I'll talk to him.</b>
+
+1016
+01:00:13,593 --> 01:00:16,060
+<b>He’s new, so he doesn’t know how to act.</b>
+
+1017
+01:00:16,062 --> 01:00:18,960
+<b>No, it’s because he knows exactly how to act.</b>
+
+1018
+01:00:18,965 --> 01:00:20,230
+<b>When he started his job,</b>
+
+1019
+01:00:20,233 --> 01:00:23,030
+<b>- it was obvious that I'm your wife. - Yes.</b>
+
+1020
+01:00:23,036 --> 01:00:26,725
+<b>But from the first day he started, he's been looking at me suspiciously.</b>
+
+1021
+01:00:27,107 --> 01:00:31,965
+<b>"I see. You're the mistress people talked about."</b>
+
+1022
+01:00:33,313 --> 01:00:35,705
+<b>That's what he was saying with his eyes.</b>
+
+1023
+01:00:36,916 --> 01:00:38,975
+<b>You can come back later.</b>
+
+1024
+01:00:44,090 --> 01:00:46,145
+<b>What are you- -</b>
+
+1025
+01:00:47,394 --> 01:00:48,390
+<b>You crazy bitch!</b>
+
+1026
+01:00:48,395 --> 01:00:49,720
+<b>I should ask you that.</b>
+
+1027
+01:00:49,729 --> 01:00:51,230
+<b>Are you out of your mind?</b>
+
+1028
+01:00:51,231 --> 01:00:53,330
+<b>How dare you come here?</b>
+
+1029
+01:00:53,333 --> 01:00:56,325
+<b>How dare you come to the hospital your son works?</b>
+
+1030
+01:00:56,670 --> 01:00:57,970
+<b>Aren't you even embarrassed?</b>
+
+1031
+01:00:57,971 --> 01:00:59,525
+<b>Or humiliated?</b>
+
+1032
+01:00:59,673 --> 01:01:02,270
+<b>Did you come to the hospital your son works with your mistress</b>
+
+1033
+01:01:02,275 --> 01:01:04,610
+<b>to show people that you're living such a wonderful life?</b>
+
+1034
+01:01:04,611 --> 01:01:06,910
+<b>- Hey! - You be quiet.</b>
+
+1035
+01:01:06,913 --> 01:01:08,205
+<b>Shut up.</b>
+
+1036
+01:01:08,915 --> 01:01:10,535
+<b>Leave now.</b>
+
+1037
+01:01:10,750 --> 01:01:13,110
+<b>Stop humiliating my son.</b>
+
+1038
+01:01:13,119 --> 01:01:15,650
+<b>Leave the hospital now, you asshole!</b>
+
+1039
+01:01:15,655 --> 01:01:17,150
+<b>Mom, let's go.</b>
+
+1040
+01:01:17,157 --> 01:01:18,820
+<b>Why did you come here?</b>
+
+1041
+01:01:18,825 --> 01:01:20,120
+<b>Let's just go. Please?</b>
+
+1042
+01:01:20,126 --> 01:01:22,385
+<b>Let go. Let go of me.</b>
+
+1043
+01:01:24,798 --> 01:01:27,485
+<b>You want me to divorce you? Never.</b>
+
+1044
+01:01:28,168 --> 01:01:30,185
+<b>Taking care of my health is hard enough,</b>
+
+1045
+01:01:30,670 --> 01:01:33,670
+<b>so up until yesterday, I was going to divorce you.</b>
+
+1046
+01:01:33,673 --> 01:01:36,895
+<b>But I'm disgusted by your behaviors,</b>
+
+1047
+01:01:37,077 --> 01:01:38,865
+<b>so I will never divorce you.</b>
+
+1048
+01:01:39,179 --> 01:01:41,880
+<b>Before you or I die,</b>
+
+1049
+01:01:41,881 --> 01:01:43,465
+<b>I will not divorce you.</b>
+
+1050
+01:01:44,684 --> 01:01:48,645
+<b>You, quit dreaming. You will be his cohabitant for the rest of his life.</b>
+
+1051
+01:01:48,822 --> 01:01:50,020
+<b>And so will be your child.</b>
+
+1052
+01:01:50,023 --> 01:01:51,775
+<b>Gosh.</b>
+
+1053
+01:02:01,367 --> 01:02:02,825
+<b>Cottonoid.</b>
+
+1054
+01:02:17,317 --> 01:02:19,735
+<b>Doctor, let's wake up the patient.</b>
+
+1055
+01:02:19,886 --> 01:02:21,275
+<b>Okay.</b>
+
+1056
+01:02:31,464 --> 01:02:33,085
+<b>ELAPSED TIME</b>
+
+1057
+01:02:36,035 --> 01:02:38,155
+<b>Can you lift your arm?</b>
+
+1058
+01:02:39,439 --> 01:02:43,195
+<b>Good job. All right. Squeeze my hand.</b>
+
+1059
+01:02:45,445 --> 01:02:47,095
+<b>He squeezed my hand.</b>
+
+1060
+01:02:49,249 --> 01:02:51,475
+<b>His facial muscles moved.</b>
+
+1061
+01:03:00,059 --> 01:03:01,290
+<b>Let's do a language test now.</b>
+
+1062
+01:03:01,294 --> 01:03:02,615
+<b>Okay.</b>
+
+1063
+01:03:03,363 --> 01:03:05,585
+<b>How are you holding up? Are you all right?</b>
+
+1064
+01:03:05,765 --> 01:03:08,555
+<b>Yes. I'm okay.</b>
+
+1065
+01:03:08,768 --> 01:03:11,295
+<b>Where do you live, Hyeon- su?</b>
+
+1066
+01:03:15,942 --> 01:03:18,710
+<b>Sadang- dong, Dongjak- gu.</b>
+
+1067
+01:03:18,711 --> 01:03:21,065
+<b>Do you have any siblings?</b>
+
+1068
+01:03:22,148 --> 01:03:25,375
+<b>I have a younger sister.</b>
+
+1069
+01:03:25,552 --> 01:03:27,375
+<b>You're doing great.</b>
+
+1070
+01:03:28,288 --> 01:03:30,975
+<b>What do you do? What's your job?</b>
+
+1071
+01:03:31,624 --> 01:03:33,290
+<b>Well...</b>
+
+1072
+01:03:33,293 --> 01:03:34,790
+<b>What do you do?</b>
+
+1073
+01:03:34,794 --> 01:03:36,745
+<b>I...</b>
+
+1074
+01:03:46,239 --> 01:03:47,825
+<b>Keep talking to him.</b>
+
+1075
+01:03:48,741 --> 01:03:50,895
+<b>Hyeon- su, aren't you a police officer?</b>
+
+1076
+01:03:52,645 --> 01:03:55,635
+<b>- Yes. - Why did you want to be a police officer?</b>
+
+1077
+01:03:57,584 --> 01:03:59,235
+<b>It had been my dream</b>
+
+1078
+01:04:00,620 --> 01:04:02,875
+<b>ever since I was seven years old.</b>
+
+1079
+01:04:03,656 --> 01:04:05,115
+<b>But</b>
+
+1080
+01:04:06,693 --> 01:04:08,315
+<b>I can't be one anymore</b>
+
+1081
+01:04:08,795 --> 01:04:11,055
+<b>because I had this surgery.</b>
+
+1082
+01:04:12,665 --> 01:04:16,130
+<b>Hyeon- su, it's almost over. I'll wrap it up quickly.</b>
+
+1083
+01:04:16,135 --> 01:04:18,525
+<b>Can you say a few more things?</b>
+
+1084
+01:04:18,671 --> 01:04:20,300
+<b>You can go back to work.</b>
+
+1085
+01:04:20,306 --> 01:04:23,025
+<b>Or you can take up another job. It's not too late.</b>
+
+1086
+01:04:24,010 --> 01:04:25,865
+<b>I'm too old</b>
+
+1087
+01:04:26,613 --> 01:04:27,905
+<b>to get another job.</b>
+
+1088
+01:04:31,317 --> 01:04:34,045
+<b>When I was 29 years old,</b>
+
+1089
+01:04:34,721 --> 01:04:35,975
+<b>I also got sick.</b>
+
+1090
+01:04:39,025 --> 01:04:41,690
+<b>I suddenly got sick when I was 29,</b>
+
+1091
+01:04:41,694 --> 01:04:43,415
+<b>so I left the military.</b>
+
+1092
+01:04:44,764 --> 01:04:46,955
+<b>What was it?</b>
+
+1093
+01:04:47,834 --> 01:04:49,630
+<b>What was your illness?</b>
+
+1094
+01:04:49,636 --> 01:04:54,165
+<b>The ligament in the cervical spine stiffened like a bone.</b>
+
+1095
+01:04:54,407 --> 01:04:57,335
+<b>It was paralyzed during my training.</b>
+
+1096
+01:04:58,044 --> 01:04:59,470
+<b>What did you do?</b>
+
+1097
+01:04:59,479 --> 01:05:01,605
+<b>What do you think?</b>
+
+1098
+01:05:01,714 --> 01:05:04,135
+<b>I'm living a great life now.</b>
+
+1099
+01:05:06,319 --> 01:05:07,975
+<b>Right.</b>
+
+1100
+01:05:09,522 --> 01:05:11,675
+<b>You became a doctor.</b>
+
+1101
+01:05:13,259 --> 01:05:15,315
+<b>You can do it, too, Hyeon- su.</b>
+
+1102
+01:05:24,771 --> 01:05:28,495
+<b>Hyeon- su, once you recover from the surgery,</b>
+
+1103
+01:05:28,908 --> 01:05:32,635
+<b>you'll be able to start anything you want.</b>
+
+1104
+01:05:34,013 --> 01:05:35,235
+<b>Okay.</b>
+
+1105
+01:05:35,615 --> 01:05:36,965
+<b>Thank you.</b>
+
+1106
+01:05:38,418 --> 01:05:41,945
+<b>Chi- hong, I wanted the patient to talk.</b>
+
+1107
+01:05:42,088 --> 01:05:44,175
+<b>You went on about yourself.</b>
+
+1108
+01:05:44,757 --> 01:05:46,545
+<b>I'm sorry.</b>
+
+1109
+01:05:46,926 --> 01:05:48,645
+<b>Hyeon- su.</b>
+
+1110
+01:05:49,262 --> 01:05:51,860
+<b>Good job. It's done.</b>
+
+1111
+01:05:51,864 --> 01:05:54,430
+<b>I'll remove the tumor as safely as I can.</b>
+
+1112
+01:05:54,434 --> 01:05:57,995
+<b>Don't worry too much. And get some sleep.</b>
+
+1113
+01:05:58,137 --> 01:06:00,525
+<b>Okay. Thank you.</b>
+
+1114
+01:06:00,707 --> 01:06:02,625
+<b>Good job.</b>
+
+1115
+01:06:04,243 --> 01:06:05,140
+<b>Doctor.</b>
+
+1116
+01:06:05,144 --> 01:06:06,565
+<b>Yes?</b>
+
+1117
+01:06:09,482 --> 01:06:11,205
+<b>Good luck.</b>
+
+1118
+01:06:20,259 --> 01:06:22,260
+<b>YULJE MEDICAL CENTER</b>
+
+1119
+01:06:22,261 --> 01:06:24,560
+<b>Daddy will be a little late tonight.</b>
+
+1120
+01:06:24,564 --> 01:06:27,685
+<i><b>Dad, I baked cookies today.</i></b>
+
+1121
+01:06:27,734 --> 01:06:29,260
+<b>Really? How many did you bake?</b>
+
+1122
+01:06:29,268 --> 01:06:32,000
+<i><b>Three. But I ate two of the cookies.</i></b>
+
+1123
+01:06:32,005 --> 01:06:34,395
+<i><b>And I'll give one to Mo- ne.</i></b>
+
+1124
+01:06:34,507 --> 01:06:39,195
+<b>My gosh, Mo- ne will be over the moon! Goodness.</b>
+
+1125
+01:06:39,445 --> 01:06:41,140
+<b>U- ju, make sure to brush your teeth.</b>
+
+1126
+01:06:41,147 --> 01:06:44,210
+<b>And I'll see you in your dream. Goodnight.</b>
+
+1127
+01:06:44,217 --> 01:06:45,580
+<i><b>Night.</i></b>
+
+1128
+01:06:45,585 --> 01:06:47,105
+<b>Okay.</b>
+
+1129
+01:06:51,157 --> 01:06:52,945
+<b>I see.</b>
+
+1130
+01:06:53,092 --> 01:06:55,360
+<b>Yes. Right.</b>
+
+1131
+01:06:55,361 --> 01:06:58,285
+<b>Yes, it went well.</b>
+
+1132
+01:06:58,698 --> 01:07:00,115
+<b>Yes.</b>
+
+1133
+01:07:04,837 --> 01:07:06,625
+<b>- My gosh, okay. - Hello.</b>
+
+1134
+01:07:08,841 --> 01:07:10,295
+<b>Hello.</b>
+
+1135
+01:07:11,878 --> 01:07:14,205
+<b>Where's your caregiver?</b>
+
+1136
+01:07:14,313 --> 01:07:17,280
+<b>My children stayed with me today.</b>
+
+1137
+01:07:17,283 --> 01:07:19,535
+<b>She went out to see them off.</b>
+
+1138
+01:07:23,790 --> 01:07:25,615
+<b>You didn't take your medication yet.</b>
+
+1139
+01:07:41,240 --> 01:07:42,825
+<b>Ms. Sin.</b>
+
+1140
+01:07:43,876 --> 01:07:47,605
+<b>Your husband made a huge decision by donating a piece of his liver.</b>
+
+1141
+01:07:51,651 --> 01:07:55,745
+<b>It doesn't matter when he had the affair and why he decided to donate the liver.</b>
+
+1142
+01:07:57,890 --> 01:07:59,590
+<b>What he did was incredible.</b>
+
+1143
+01:07:59,592 --> 01:08:02,645
+<b>He risked his life to donate a piece of his liver to you.</b>
+
+1144
+01:08:06,933 --> 01:08:08,655
+<b>You should just</b>
+
+1145
+01:08:09,902 --> 01:08:13,695
+<b>let your husband live his life without you.</b>
+
+1146
+01:08:19,245 --> 01:08:21,265
+<b>You should live your own life now.</b>
+
+1147
+01:08:25,885 --> 01:08:28,105
+<b>I got divorced because my wife cheated on me.</b>
+
+1148
+01:08:32,391 --> 01:08:33,860
+<b>I worked at the hospital all day,</b>
+
+1149
+01:08:33,860 --> 01:08:37,045
+<b>and looked after my son alone. I really lived hard, but...</b>
+
+1150
+01:08:39,532 --> 01:08:42,355
+<b>She had an affair with her friend's husband.</b>
+
+1151
+01:08:43,302 --> 01:08:44,795
+<b>At first,</b>
+
+1152
+01:08:45,471 --> 01:08:47,295
+<b>it hurt my pride.</b>
+
+1153
+01:08:48,274 --> 01:08:49,525
+<b>And</b>
+
+1154
+01:08:51,711 --> 01:08:53,810
+<b>I was embarrassed to face other people.</b>
+
+1155
+01:08:53,813 --> 01:08:57,835
+<b>I wondered why my life was getting so difficult. It was really tough.</b>
+
+1156
+01:08:59,085 --> 01:09:00,675
+<b>But all of a sudden, one day,</b>
+
+1157
+01:09:05,625 --> 01:09:07,745
+<b>I realized how much time I was wasting.</b>
+
+1158
+01:09:13,900 --> 01:09:15,685
+<b>Wasting my life away like this</b>
+
+1159
+01:09:16,469 --> 01:09:20,255
+<b>because of what she did to me was doing a disservice to myself.</b>
+
+1160
+01:09:30,950 --> 01:09:34,420
+<b>My goodness. You spent a long time being sick.</b>
+
+1161
+01:09:34,420 --> 01:09:36,520
+<b>It was so hard to get your health back.</b>
+
+1162
+01:09:36,522 --> 01:09:40,045
+<b>For the sake of you, not your husband, please take the medication.</b>
+
+1163
+01:09:40,826 --> 01:09:42,785
+<b>Give it your all</b>
+
+1164
+01:09:43,663 --> 01:09:45,955
+<b>to make a full recovery.</b>
+
+1165
+01:09:49,468 --> 01:09:52,125
+<b>It's your life, after all. Right?</b>
+
+1166
+01:10:03,282 --> 01:10:05,005
+<b>Excuse me.</b>
+
+1167
+01:10:06,152 --> 01:10:09,405
+<b>Can you bring me a cup of water?</b>
+
+1168
+01:10:20,800 --> 01:10:22,485
+<b>Thank you.</b>
+
+1169
+01:10:23,469 --> 01:10:24,795
+<b>Thank you.</b>
+
+1170
+01:10:58,704 --> 01:11:00,200
+<b>Who is it?</b>
+
+1171
+01:11:00,206 --> 01:11:01,695
+<b>It's Chi- hong.</b>
+
+1172
+01:11:01,774 --> 01:11:03,365
+<b>Come in.</b>
+
+1173
+01:11:07,046 --> 01:11:09,865
+<b>You knew? When?</b>
+
+1174
+01:11:11,183 --> 01:11:12,935
+<b>Let's see.</b>
+
+1175
+01:11:14,553 --> 01:11:16,545
+<b>The day when you bombed the EVD.</b>
+
+1176
+01:11:16,922 --> 01:11:18,345
+<b>That's when I found out.</b>
+
+1177
+01:11:20,393 --> 01:11:22,385
+<b>I checked your record.</b>
+
+1178
+01:11:23,062 --> 01:11:25,530
+<b>You got discharged as a captain due to OPLL.</b>
+
+1179
+01:11:25,531 --> 01:11:27,955
+<b>I saw it in your record, so I went digging.</b>
+
+1180
+01:11:28,734 --> 01:11:31,730
+<b>You don't have any problems to live a normal life.</b>
+
+1181
+01:11:31,737 --> 01:11:35,795
+<b>It's a treatable condition with medication or exercise when caught early in life.</b>
+
+1182
+01:11:35,941 --> 01:11:38,410
+<b>However, that doesn't apply to sports or careers</b>
+
+1183
+01:11:38,411 --> 01:11:41,535
+<b>that require you to move your body rigorously.</b>
+
+1184
+01:11:42,315 --> 01:11:46,535
+<b>If you hurt your neck, it may lead to tetraplegia.</b>
+
+1185
+01:11:47,053 --> 01:11:49,805
+<b>I really didn't have any problems with my condition so far.</b>
+
+1186
+01:11:51,490 --> 01:11:54,645
+<b>Perhaps, it was because I was very nervous that day.</b>
+
+1187
+01:11:55,194 --> 01:11:58,015
+<b>During the surgery, my legs went numb.</b>
+
+1188
+01:11:58,464 --> 01:12:00,855
+<b>And I had a tingling sensation in my neck, too.</b>
+
+1189
+01:12:03,469 --> 01:12:05,895
+<b>Feeling that pain all over again after several years</b>
+
+1190
+01:12:06,172 --> 01:12:07,640
+<b>drove me crazy.</b>
+
+1191
+01:12:07,640 --> 01:12:09,340
+<b>Why didn't you tell me?</b>
+
+1192
+01:12:09,342 --> 01:12:10,570
+<b>It's not a serious condition.</b>
+
+1193
+01:12:10,576 --> 01:12:12,735
+<b>I was going to tell you,</b>
+
+1194
+01:12:13,145 --> 01:12:15,205
+<b>but I never had the right timing.</b>
+
+1195
+01:12:16,315 --> 01:12:18,675
+<b>Also, it hurt my pride a bit</b>
+
+1196
+01:12:19,185 --> 01:12:21,205
+<b>because everyone was so curious about it.</b>
+
+1197
+01:12:21,954 --> 01:12:24,405
+<b>Where does that pride come from?</b>
+
+1198
+01:12:25,324 --> 01:12:27,090
+<b>That's some pride you have.</b>
+
+1199
+01:12:27,093 --> 01:12:29,115
+<b>Should I tell you my medical conditions?</b>
+
+1200
+01:12:32,298 --> 01:12:33,715
+<b>Professor Chae.</b>
+
+1201
+01:12:34,333 --> 01:12:37,330
+<b>Why didn't you say anything on the day of the surgery?</b>
+
+1202
+01:12:37,336 --> 01:12:40,100
+<b>I told you I found out after the surgery.</b>
+
+1203
+01:12:40,106 --> 01:12:41,895
+<b>I mean, I messed up a lot.</b>
+
+1204
+01:12:42,174 --> 01:12:44,695
+<b>But you didn't say anything in the OR.</b>
+
+1205
+01:12:45,144 --> 01:12:46,635
+<b>You didn't scold me either.</b>
+
+1206
+01:12:49,181 --> 01:12:51,105
+<b>I have faith in you.</b>
+
+1207
+01:12:54,053 --> 01:12:56,475
+<b>You are always diligent.</b>
+
+1208
+01:12:56,655 --> 01:12:58,620
+<b>And you study and read up on the patients a lot.</b>
+
+1209
+01:12:58,624 --> 01:13:00,115
+<b>So I couldn't understand it.</b>
+
+1210
+01:13:00,726 --> 01:13:03,145
+<b>And I thought there must have been a reason for it.</b>
+
+1211
+01:13:04,463 --> 01:13:05,730
+<b>So I decided to scold you later</b>
+
+1212
+01:13:05,731 --> 01:13:08,385
+<b>and look into this first.</b>
+
+1213
+01:13:09,735 --> 01:13:12,370
+<b>Why? Are you disappointed that I didn't scold you?</b>
+
+1214
+01:13:12,371 --> 01:13:13,655
+<b>No.</b>
+
+1215
+01:13:16,909 --> 01:13:18,635
+<b>If you</b>
+
+1216
+01:13:19,044 --> 01:13:21,480
+<b>scolded me that day,</b>
+
+1217
+01:13:21,480 --> 01:13:23,135
+<b>I wouldn't have been here today.</b>
+
+1218
+01:13:28,854 --> 01:13:31,075
+<b>You should have bought me some drinks, then.</b>
+
+1219
+01:13:31,424 --> 01:13:33,315
+<b>I was going to.</b>
+
+1220
+01:13:35,027 --> 01:13:39,115
+<b>When I went to the office to take you out, you had already left to get drinks.</b>
+
+1221
+01:13:41,066 --> 01:13:43,155
+<b>Oh, right. Darn it.</b>
+
+1222
+01:13:43,836 --> 01:13:45,030
+<b>I'm sorry.</b>
+
+1223
+01:13:45,037 --> 01:13:46,670
+<b>I know that drinking with your colleagues</b>
+
+1224
+01:13:46,672 --> 01:13:49,465
+<b>is more comfortable than with me.</b>
+
+1225
+01:13:50,176 --> 01:13:52,495
+<b>Anyway, we'll settle that I bought you drinks.</b>
+
+1226
+01:13:54,180 --> 01:13:55,435
+<b>Okay.</b>
+
+1227
+01:13:56,415 --> 01:14:00,035
+<b>I'm dying for a drink, but I happen to be working the night shift today.</b>
+
+1228
+01:14:04,256 --> 01:14:08,015
+<b>Seon- bin took your shift.</b>
+
+1229
+01:14:08,627 --> 01:14:10,485
+<b>She'll be on call tonight for you.</b>
+
+1230
+01:14:12,364 --> 01:14:16,130
+<b>She said you shouldn't think about anything else</b>
+
+1231
+01:14:16,135 --> 01:14:18,625
+<b>and should just go drink a lot tonight.</b>
+
+1232
+01:14:21,273 --> 01:14:23,395
+<b>My goodness.</b>
+
+1233
+01:14:23,876 --> 01:14:27,165
+<b>And she told you not to get the wrong idea.</b>
+
+1234
+01:14:27,246 --> 01:14:29,735
+<b>She said she doesn't have feelings for you.</b>
+
+1235
+01:14:31,650 --> 01:14:33,035
+<b>What are you doing?</b>
+
+1236
+01:14:33,752 --> 01:14:35,245
+<b>Go change now.</b>
+
+1237
+01:14:37,223 --> 01:14:38,645
+<b>Okay.</b>
+
+1238
+01:14:44,930 --> 01:14:46,855
+<b>Yes, I'm heading out, too.</b>
+
+1239
+01:14:46,899 --> 01:14:48,355
+<b>Okay.</b>
+
+1240
+01:14:57,409 --> 01:14:58,640
+<b>Is it an emergency patient?</b>
+
+1241
+01:14:58,644 --> 01:15:00,535
+<b>Let's go. We'll talk on our way.</b>
+
+1242
+01:15:00,913 --> 01:15:03,935
+<b>No, Professor Ahn. We don't have a patient.</b>
+
+1243
+01:15:08,187 --> 01:15:10,245
+<b>Buy me dinner, please.</b>
+
+1244
+01:15:15,261 --> 01:15:18,515
+<b>Buy me dinner this weekend, Professor Ahn.</b>
+
+1245
+01:15:21,200 --> 01:15:23,760
+<b>Sure. Let's have a get- together with everyone.</b>
+
+1246
+01:15:23,769 --> 01:15:25,455
+<b>Just the two of us.</b>
+
+1247
+01:15:28,841 --> 01:15:30,470
+<b>Just the two of us, outside the hospital</b>
+
+1248
+01:15:30,476 --> 01:15:33,195
+<b>and not in these scrubs, but in our personal clothes.</b>
+
+1249
+01:16:22,061 --> 01:16:25,215
+<i><b>You were always</i></b>
+
+1250
+01:16:30,603 --> 01:16:33,755
+<i><b>You were always</i></b>
+
+1251
+01:17:04,737 --> 01:17:09,225
+<i><b>My longing for you</i></b>
+
+1252
+01:17:09,775 --> 01:17:13,395
+<i><b>Gets bigger every single day</i></b>
+
+1253
+01:17:13,912 --> 01:17:18,410
+<i><b>The pain of not seeing you always Leaves me with fresh wounds</i></b>
+
+1254
+01:17:18,417 --> 01:17:21,545
+<i><b>But you're going your way</i></b>
+
+1255
+01:17:21,553 --> 01:17:24,920
+<i><b>If you want, I can wait for you</i></b>
+
+1256
+01:17:24,923 --> 01:17:26,590
+<b>Thank you.</b>
+
+1257
+01:17:26,592 --> 01:17:30,345
+<i><b>I haven't changed at all</i></b>
+
+1258
+01:17:30,896 --> 01:17:35,000
+<i><b>It was you who had changed</i></b>
+
+1259
+01:17:35,000 --> 01:17:37,230
+<i><b>So you can</i></b>
+
+1260
+01:17:37,236 --> 01:17:39,925
+<b>- <i>Come back to me</i> - Thank you.</b>
+
+1261
+01:17:41,306 --> 01:17:47,595
+<i><b>If you're blaming me for my mistake</i></b>
+
+1262
+01:17:47,613 --> 01:17:51,880
+<i><b>You can still blame me after you come back</i></b>
+
+1263
+01:17:51,884 --> 01:17:58,920
+<i><b>We still have time for that</i></b>
+
+1264
+01:17:58,924 --> 01:18:04,530
+<i><b>I will be the same guy</i></b>
+
+1265
+01:18:04,530 --> 01:18:08,130
+<i><b>That you left</i></b>
+
+1266
+01:18:08,133 --> 01:18:12,870
+<i><b>I don't want to comfort myself</i></b>
+
+1267
+01:18:12,871 --> 01:18:15,800
+<i><b>With false hope anymore</i></b>
+
+1268
+01:18:15,808 --> 01:18:21,510
+<i><b>For the first time, I learned What it means to be in love</i></b>
+
+1269
+01:18:21,513 --> 01:18:25,080
+<i><b>I'm going to get you back</i></b>
+
+1270
+01:18:25,084 --> 01:18:29,680
+<i><b>I just realized that the purpose</i></b>
+
+1271
+01:18:29,688 --> 01:18:35,415
+<i><b>Of my life had been you all along</i></b>
+
+1272
+01:18:41,633 --> 01:18:44,225
+<b>TRY THIS COOKIE, DAD!</b>
+
+1273
+01:18:47,906 --> 01:18:52,635
+<i><b>If you want, I can wait for you</i></b>
+
+1274
+01:18:52,878 --> 01:18:56,535
+<i><b>I haven't changed at all</i></b>
+
+1275
+01:18:57,049 --> 01:19:01,220
+<i><b>It was you who had changed</i></b>
+
+1276
+01:19:01,220 --> 01:19:06,145
+<i><b>So you can come back to me</i></b>
+
+1277
+01:19:07,659 --> 01:19:13,685
+<i><b>If you're blaming me for my mistake</i></b>
+
+1278
+01:19:13,899 --> 01:19:18,400
+<i><b>You can still blame me after you come back</i></b>
+
+1279
+01:19:18,403 --> 01:19:25,240
+<i><b>We still have time for that</i></b>
+
+1280
+01:19:25,244 --> 01:19:30,965
+<i><b>I will be the same guy</i></b>
+
+1281
+01:19:31,016 --> 01:19:34,450
+<i><b>That you left</i></b>
+
+1282
+01:19:34,453 --> 01:19:39,120
+<i><b>I don't want to comfort myself</i></b>
+
+1283
+01:19:39,124 --> 01:19:42,060
+<i><b>With false hope anymore</i></b>
+
+1284
+01:19:42,060 --> 01:19:47,855
+<i><b>For the first time, I learned What it means to be in love</i></b>
+
+1285
+01:19:47,900 --> 01:19:51,270
+<i><b>I'm going to get you back</i></b>
+
+1286
+01:19:51,270 --> 01:19:55,940
+<i><b>I just realized that the purpose</i></b>
+
+1287
+01:19:55,941 --> 01:20:02,665
+<i><b>Of my life had been you all along</i></b>
+
+1288
+01:21:04,443 --> 01:21:06,565
+<b>- Hello. - Hi.</b>
+
+1289
+01:21:08,680 --> 01:21:10,065
+<b>Where are you going?</b>
+
+1290
+01:21:10,716 --> 01:21:12,205
+<b>On a date with my wife.</b>
+
+1291
+01:21:12,784 --> 01:21:15,080
+<b>Didn't you say you've been married for over ten years?</b>
+
+1292
+01:21:15,087 --> 01:21:17,245
+<b>Yes, this year is our tenth year together.</b>
+
+1293
+01:21:17,623 --> 01:21:21,120
+<b>We got a rent- free apartment with just our deposit on our tenth year.</b>
+
+1294
+01:21:21,126 --> 01:21:24,145
+<b>We made reservations to take our parents on a trip.</b>
+
+1295
+01:21:27,032 --> 01:21:29,825
+<b>People might think I beat you up or something.</b>
+
+1296
+01:21:30,068 --> 01:21:31,455
+<b>I won't kill you.</b>
+
+1297
+01:21:35,140 --> 01:21:37,495
+<b>You can kill me with your words alone.</b>
+
+1298
+01:21:49,354 --> 01:21:51,175
+<b>I'll be out for a while.</b>
+
+1299
+01:21:52,257 --> 01:21:54,475
+<b>What? This wasn't going up?</b>
+
+1300
+01:21:56,094 --> 01:21:58,315
+<b>I will help you go up.</b>
+
+1301
+01:21:58,430 --> 01:22:00,785
+<b>Bye.</b>
+
+1302
+01:22:05,904 --> 01:22:07,325
+<b>You're here.</b>
+
+1303
+01:22:07,839 --> 01:22:10,600
+<b>- Hello? <i>- Hi, this is your landlady.</i></b>
+
+1304
+01:22:10,609 --> 01:22:12,770
+<b>Hello. Have you been well?</b>
+
+1305
+01:22:12,778 --> 01:22:16,910
+<i><b>Yes. I just wanted to remind you that you forgot to wire the rent this month.</i></b>
+
+1306
+01:22:16,915 --> 01:22:19,610
+<b>- Pardon? <i>- Your monthly rent.</i></b>
+
+1307
+01:22:19,618 --> 01:22:20,910
+<i><b>You forgot to wire me the rent.</i></b>
+
+1308
+01:22:20,919 --> 01:22:23,880
+<b>My gosh, what are you talking about? I signed a deposit- based apartment.</b>
+
+1309
+01:22:23,889 --> 01:22:26,015
+<b>A 2- year contract and 200- million- won...</b>
+
+1310
+01:22:27,292 --> 01:22:29,190
+<b>I don't follow.</b>
+
+1311
+01:22:29,194 --> 01:22:30,815
+<i><b>Deposit- based apartment?</i></b>
+
+1312
+01:22:30,963 --> 01:22:33,130
+<i><b>You signed a contract with monthly rents.</i></b>
+
+1313
+01:22:33,131 --> 01:22:36,125
+<i><b>The deposit was 20 million won, and the rent was 900,000 won.</i></b>
+
+1314
+01:22:36,435 --> 01:22:37,855
+<b>What...</b>
+
+1315
+01:22:38,770 --> 01:22:41,625
+<b>What are you talking about?</b>
+
+1316
+01:23:20,779 --> 01:23:22,480
+<i><b>My son is sensitive and delicate.</i></b>
+
+1317
+01:23:22,481 --> 01:23:24,340
+<i><b>It'd be nice if he has a reliable life partner.</i></b>
+
+1318
+01:23:24,349 --> 01:23:25,980
+<i><b>Jeong- won, you can tell her now.</i></b>
+
+1319
+01:23:25,984 --> 01:23:28,780
+<i><b>I think it will be around the end of December. Will that work?</i></b>
+
+1320
+01:23:28,787 --> 01:23:30,980
+<b>My goodness, what's wrong with Jeong- won?</b>
+
+1321
+01:23:30,989 --> 01:23:32,120
+<b>What are you doing? Focus.</b>
+
+1322
+01:23:32,124 --> 01:23:33,650
+<i><b>I'm bad at my job because I'm dumb.</i></b>
+
+1323
+01:23:33,658 --> 01:23:34,790
+<i><b>There's nothing I can do.</i></b>
+
+1324
+01:23:34,793 --> 01:23:36,790
+<b>- Dr. Chu. <i>- My professor</i></b>
+
+1325
+01:23:36,795 --> 01:23:38,490
+<i><b>is the biggest slug ever.</i></b>
+
+1326
+01:23:38,497 --> 01:23:40,090
+<i><b>Will you kill both the mother and the baby?</i></b>
+
+1327
+01:23:40,098 --> 01:23:42,730
+<b>I'll go tell the slug tomorrow morning.</b>
+
+1328
+01:23:42,734 --> 01:23:44,300
+<b>I'll put an end to this.</b>
+
+1329
+01:23:44,302 --> 01:23:47,000
+<b>Have you gone mad? Why are you quitting? I won't let you quit.</b>
+
+1330
+01:23:47,005 --> 01:23:49,770
+<i><b>I think I'm messing up my life.</i></b>
+
+1331
+01:23:49,775 --> 01:23:51,000
+<i><b>My existence is harming others.</i></b>
+
+1332
+01:23:51,009 --> 01:23:53,710
+<b>I barely managed to stop him from talking to the TV station.</b>
+
+1333
+01:23:53,712 --> 01:23:55,180
+<i><b>Professor, I need to talk to you.</i></b>
+
+1334
+01:23:55,180 --> 01:23:57,640
+<b>- Min- ha isn't here yet? - <i>Did the resident who went MIA come back?</i></b>
+
+1335
+01:23:57,649 --> 01:23:59,550
+<i><b>MIA since yesterday morning, no word for two days.</i></b>
+
+1336
+01:23:59,551 --> 01:24:00,880
+<i><b>Be nice to the resident.</i></b>
+
+1337
+01:24:00,886 --> 01:24:02,775
+<i><b>It must've been hard on the resident.</i></b>
+
+1338
+01:24:04,289 --> 01:24:05,250
+<b>I'll come back later.</b>
+
+1339
+01:24:05,257 --> 01:24:07,990
+<i><b>Song- hwa is beautiful and smart.</i></b>
+
+1340
+01:24:07,993 --> 01:24:09,890
+<b>- What about Jun- wan? <i>- He has plans.</i></b>
+
+1341
+01:24:09,895 --> 01:24:11,890
+<i><b>You're going crazy about this girl.</i></b>
+
+1342
+01:24:11,897 --> 01:24:14,560
+<i><b>Who are you dating? I'd love to meet her.</i></b>
+
+1343
+01:24:14,566 --> 01:24:15,730
+<b>So, she is your girlfriend.</b>
+
+1344
+01:24:15,734 --> 01:24:17,500
+<b>I'll tell you everything another time.</b>
+
+1345
+01:24:17,502 --> 01:24:21,125
+<i><b>Even I felt the warm fuzzies.</i></b>
+
